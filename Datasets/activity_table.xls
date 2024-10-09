@@ -1,0 +1,15 @@
+activity_id,activity_name,teacher_id,activity_type
+1,Football,7,Sports
+2,Basketball,4,Sports
+3,Chess,13,Academic
+4,Robotics,11,Academic
+5,Athletics,8,Sports
+6,Dance,13,Arts
+7,Debate,5,Academic
+8,Drama,7,Arts
+9,Volleyball,10,Sports
+10,Arts & Crafts,3,Arts
+11,Math Club,7,Academic
+12,Science Club,11,Academic
+13,Debate Club,11,Academic
+14,Literary Society,8,Academic

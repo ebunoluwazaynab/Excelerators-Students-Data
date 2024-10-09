@@ -1,0 +1,1001 @@
+Student ID,First Name,Last Name,Full Name,Gender,General Class Level,Specific Class Level,Birth Year,Enrollment Year,Guardian Type,Guardian Occupation,Guardian Check-in Frequency,Guardian Contact,Activity ID
+0001,Tunde,Onyegbule,Tunde Onyegbule,Male,Junior,JSS3,2013,2022,Aunt/Uncle,Small Business Owner,Daily,07074692674,3
+0002,Faith,Adarabioyo,Faith Adarabioyo,Female,Junior,JSS2,2014,2021,Parent,Small Business Owner,Daily,08175140958,8
+0003,Cleopatra,Atanda,Cleopatra Atanda,Female,Junior,JSS3,2012,2023,Aunt/Uncle,Unemployed,Rarely,09026382426,7
+0004,Femi,Oyeleye,Femi Oyeleye,Male,Junior,JSS1,2014,2021,Sibling,Technician,Daily,08198941367,6
+0005,Oluwaseyi,Olaoye,Oluwaseyi Olaoye,Female,Junior,JSS2,2013,2022,Grandparent,Farmer,Rarely,08155935191,9
+0006,Comfort,Onwumere,Comfort Onwumere,Female,Junior,JSS2,2012,2023,Grandparent,Trader,Bi-Weekly,09076874147,9
+0007,Zainab,Ogedegbe,Zainab Ogedegbe,Female,Junior,JSS1,2015,2020,Parent,Technician,Daily,08008687077,3
+0008,Kemi,Akraka,Kemi Akraka,Female,Junior,JSS1,2013,2022,Parent,Artisan,Bi-Weekly,07004969868,7
+0009,Ayodeji,Orban,Ayodeji Orban,Male,Junior,JSS1,2013,2022,Aunt/Uncle,Small Business Owner,Daily,07074275202,3
+0010,Tobi,Abaribe,Tobi Abaribe,Male,Junior,JSS1,2015,2020,Sibling,Technician,Weekly,08166899260,4
+0011,Charity,Fatai,Charity Fatai,Female,Junior,JSS2,2014,2021,Grandparent,Civil Servant,Bi-Weekly,07063625198,9
+0012,Clinton,Rasaki,Clinton Rasaki,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Technician,Weekly,07096860088,1
+0013,Adeola,Odunbaku,Adeola Odunbaku,Male,Junior,JSS3,2011,2024,Aunt/Uncle,Teacher,Daily,08178402975,1
+0014,Solomon,Ibekwe,Solomon Ibekwe,Male,Junior,JSS1,2014,2021,Parent,Teacher,Bi-Weekly,08093612040,3
+0015,Femi,Adejuyigbe,Femi Adejuyigbe,Male,Junior,JSS1,2014,2021,Sibling,Teacher,Weekly,08156400214,4
+0016,Fatima,Kolade,Fatima Kolade,Female,Junior,JSS3,2011,2024,Grandparent,Civil Servant,Weekly,09005743155,6
+0017,Adeola,Dosunmu,Adeola Dosunmu,Male,Junior,JSS1,2013,2022,Parent,Civil Servant,Weekly,08123329223,4
+0018,Bukola,Orban,Bukola Orban,Female,Junior,JSS1,2015,2020,Sibling,Small Business Owner,Bi-Weekly,09061708816,7
+0019,Toyibat,Anyiam,Toyibat Anyiam,Female,Junior,JSS3,2011,2024,Sibling,Small Business Owner,Daily,09098301044,6
+0020,Michael,Monye,Michael Monye,Male,Junior,JSS1,2013,2022,Parent,Technician,Weekly,07023757073,4
+0021,Halima,Adesokan,Halima Adesokan,Female,Junior,JSS2,2013,2022,Grandparent,Civil Servant,Weekly,07082811152,6
+0022,Zainab,Olatunji,Zainab Olatunji,Female,Junior,JSS1,2015,2020,Sibling,Civil Servant,Weekly,08143776200,8
+0023,Fawaz,Akanbi,Fawaz Akanbi,Male,Junior,JSS3,2012,2023,Grandparent,Civil Servant,Bi-Weekly,07055525714,4
+0024,Cyllia,Adarabioyo,Cyllia Adarabioyo,Female,Junior,JSS3,2013,2022,Grandparent,Civil Servant,Weekly,08023200452,10
+0025,Zainab,Udegbe,Zainab Udegbe,Female,Junior,JSS1,2015,2020,Aunt/Uncle,Technician,Weekly,08142034602,6
+0026,Fawaz,Igbinoghene,Fawaz Igbinoghene,Male,Junior,JSS2,2012,2023,Aunt/Uncle,Technician,Weekly,08192771561,2
+0027,Ridwan,Onwumere,Ridwan Onwumere,Male,Junior,JSS2,2013,2022,Sibling,Teacher,Weekly,08070856969,1
+0028,Toyibat,Akpabio,Toyibat Akpabio,Female,Junior,JSS1,2014,2021,Grandparent,Small Business Owner,Daily,07083307261,8
+0029,Divine,Okoronkwo,Divine Okoronkwo,Male,Junior,JSS1,2014,2021,Parent,Technician,Weekly,07059950395,3
+0030,Charity,Akanbi,Charity Akanbi,Female,Junior,JSS1,2015,2020,Parent,Teacher,Daily,09044635326,10
+0031,Ibrahim,Okoduwa,Ibrahim Okoduwa,Male,Junior,JSS2,2013,2022,Parent,Teacher,Daily,08120729694,1
+0032,Samson,Omagbemi,Samson Omagbemi,Male,Junior,JSS1,2015,2020,Sibling,Teacher,Daily,08190158740,5
+0033,Kemi,Olukoya,Kemi Olukoya,Female,Junior,JSS2,2014,2021,Aunt/Uncle,Small Business Owner,Bi-Weekly,07029245840,9
+0034,Donald,Okposo,Donald Okposo,Male,Junior,JSS1,2014,2021,Aunt/Uncle,Teacher,Bi-Weekly,08146304699,4
+0035,Emmanuel,Okoduwa,Emmanuel Okoduwa,Male,Junior,JSS2,2012,2023,Grandparent,Small Business Owner,Daily,08192907437,2
+0036,Fatima,Adarabioyo,Fatima Adarabioyo,Female,Junior,JSS1,2013,2022,Sibling,Small Business Owner,Daily,09071200242,7
+0037,Musa,Adejuyigbe,Musa Adejuyigbe,Male,Junior,JSS3,2013,2022,Parent,Technician,Weekly,08012126097,2
+0038,David,Monye,David Monye,Male,Junior,JSS2,2013,2022,Grandparent,Technician,Bi-Weekly,08128639417,5
+0039,Daniel,Okojie,Daniel Okojie,Male,Junior,JSS1,2015,2020,Sibling,Artisan,Rarely,09094872023,5
+0040,Deborah,Aladesanmi,Deborah Aladesanmi,Female,Junior,JSS1,2013,2022,Aunt/Uncle,Farmer,Rarely,08068280038,8
+0041,Fawaz,Adesokan,Fawaz Adesokan,Male,Junior,JSS3,2013,2022,Aunt/Uncle,Civil Servant,Daily,09082863294,4
+0042,Tobi,Adarabioyo,Tobi Adarabioyo,Male,Junior,JSS1,2013,2022,Parent,Civil Servant,Daily,08034686499,2
+0043,Ibrahim,Balarabe,Ibrahim Balarabe,Male,Junior,JSS1,2013,2022,Grandparent,Small Business Owner,Bi-Weekly,07018990567,2
+0044,Musa,Okongwu,Musa Okongwu,Male,Junior,JSS3,2012,2023,Aunt/Uncle,Small Business Owner,Daily,08144527053,1
+0045,Fatima,Odunbaku,Fatima Odunbaku,Female,Junior,JSS1,2014,2021,Sibling,Farmer,Bi-Weekly,09025699262,7
+0046,Divine,Oyeleye,Divine Oyeleye,Male,Junior,JSS2,2013,2022,Sibling,Small Business Owner,Bi-Weekly,09078602808,5
+0047,Ridwan,Odunbaku,Ridwan Odunbaku,Male,Junior,JSS2,2013,2022,Sibling,Technician,Daily,09045443223,1
+0048,Boluwatife,Ogunode,Boluwatife Ogunode,Female,Junior,JSS1,2014,2021,Aunt/Uncle,Small Business Owner,Daily,07004552689,9
+0049,Yusuf,Ihemeje,Yusuf Ihemeje,Male,Junior,JSS1,2014,2021,Aunt/Uncle,Teacher,Bi-Weekly,09039791483,1
+0050,Zainab,Aderemi,Zainab Aderemi,Female,Junior,JSS1,2015,2020,Sibling,Small Business Owner,Daily,08032512481,7
+0051,Yusuf,Owoh,Yusuf Owoh,Male,Junior,JSS3,2013,2022,Grandparent,Technician,Bi-Weekly,08067050104,1
+0052,Aminat,Udebuluzor,Aminat Udebuluzor,Female,Junior,JSS2,2012,2023,Parent,Civil Servant,Weekly,07000182046,6
+0053,Daniel,Adegbenro,Daniel Adegbenro,Male,Junior,JSS1,2013,2022,Grandparent,Technician,Daily,08052464449,1
+0054,Oluchi,Ihemeje,Oluchi Ihemeje,Female,Junior,JSS1,2014,2021,Grandparent,Small Business Owner,Weekly,08002300717,2
+0055,Comfort,Aliyu,Comfort Aliyu,Female,Junior,JSS2,2013,2022,Aunt/Uncle,Artisan,Bi-Weekly,08121054806,10
+0056,Daniel,Omolade,Daniel Omolade,Male,Junior,JSS2,2013,2022,Grandparent,Farmer,Rarely,07026515111,3
+0057,Emmanuel,Ameobi,Emmanuel Ameobi,Male,Junior,JSS3,2011,2024,Aunt/Uncle,Trader,Weekly,08138507692,5
+0058,Divine,Maikori,Divine Maikori,Male,Junior,JSS2,2014,2021,Parent,Small Business Owner,Daily,08103741541,3
+0059,Ayodeji,Olonisakin,Ayodeji Olonisakin,Male,Junior,JSS3,2011,2024,Sibling,Small Business Owner,Weekly,07086657373,3
+0060,Donald,Ogbu,Donald Ogbu,Male,Junior,JSS3,2011,2024,Parent,Farmer,Bi-Weekly,08019224419,5
+0061,Ridwan,Onayemi,Ridwan Onayemi,Male,Junior,JSS2,2014,2021,Grandparent,Lecturer,Daily,08089109898,3
+0062,Toyibat,Imeh,Toyibat Imeh,Female,Junior,JSS3,2013,2022,Aunt/Uncle,Civil Servant,Bi-Weekly,08093070237,7
+0063,Boluwatife,Onyeka,Boluwatife Onyeka,Female,Junior,JSS3,2012,2023,Sibling,Teacher,Daily,09019726261,8
+0064,Toyibat,Anjorin,Toyibat Anjorin,Female,Junior,JSS3,2011,2024,Grandparent,Technician,Daily,09086496806,9
+0065,Cyllia,Igbinoghene,Cyllia Igbinoghene,Female,Junior,JSS1,2015,2020,Aunt/Uncle,Civil Servant,Weekly,08038392813,7
+0066,Divine,Okoronkwo,Divine Okoronkwo,Male,Junior,JSS3,2013,2022,Parent,Teacher,Daily,09029845391,3
+0067,Boluwatife,Ogunode,Boluwatife Ogunode,Female,Junior,JSS1,2014,2021,Aunt/Uncle,Teacher,Daily,08080454556,8
+0068,Comfort,Balarabe,Comfort Balarabe,Female,Junior,JSS2,2013,2022,Sibling,Civil Servant,Weekly,08176862274,7
+0069,Yusuf,Odutola,Yusuf Odutola,Male,Junior,JSS3,2011,2024,Sibling,Teacher,Daily,08150752817,5
+0070,Ridwan,Onyeama,Ridwan Onyeama,Male,Junior,JSS1,2014,2021,Grandparent,Civil Servant,Bi-Weekly,08153230300,5
+0071,Adeola,Owoh,Adeola Owoh,Male,Junior,JSS2,2012,2023,Sibling,Civil Servant,Weekly,07032051794,4
+0072,Charity,Daramola,Charity Daramola,Female,Junior,JSS2,2014,2021,Sibling,Small Business Owner,Bi-Weekly,09013048087,8
+0073,Ayodeji,Ogunoye,Ayodeji Ogunoye,Male,Junior,JSS2,2012,2023,Parent,Small Business Owner,Bi-Weekly,08041478122,4
+0074,Oreoluwa,Onyema,Oreoluwa Onyema,Female,Junior,JSS1,2013,2022,Sibling,Civil Servant,Daily,08042444293,7
+0075,Dara,Ayorinde,Dara Ayorinde,Female,Junior,JSS1,2014,2021,Aunt/Uncle,Small Business Owner,Weekly,09076725060,6
+0076,Zainab,Sofoluwe,Zainab Sofoluwe,Female,Junior,JSS3,2011,2024,Parent,Technician,Daily,08147726255,8
+0077,Daniel,Babayaro,Daniel Babayaro,Male,Junior,JSS2,2012,2023,Sibling,Teacher,Weekly,07003635804,1
+0078,Divine,Ogbonnaya,Divine Ogbonnaya,Male,Junior,JSS2,2013,2022,Sibling,Small Business Owner,Bi-Weekly,08194905537,5
+0079,Goodness,Adefope,Goodness Adefope,Female,Junior,JSS1,2015,2020,Aunt/Uncle,Small Business Owner,Bi-Weekly,07031223394,7
+0080,Comfort,Orban,Comfort Orban,Female,Junior,JSS2,2013,2022,Sibling,Teacher,Bi-Weekly,09069971807,9
+0081,Joseph,Adefuye,Joseph Adefuye,Male,Junior,JSS1,2015,2020,Grandparent,Technician,Bi-Weekly,09090985278,1
+0082,Donald,Adebutu,Donald Adebutu,Male,Junior,JSS2,2014,2021,Sibling,Teacher,Bi-Weekly,08093568056,5
+0083,Fawaz,Adedeji,Fawaz Adedeji,Male,Junior,JSS3,2013,2022,Aunt/Uncle,Small Business Owner,Weekly,08089384982,1
+0084,Faith,Ubosi,Faith Ubosi,Female,Junior,JSS2,2012,2023,Aunt/Uncle,Unemployed,Bi-Weekly,08116110257,9
+0085,Goodness,Rasaki,Goodness Rasaki,Female,Junior,JSS2,2014,2021,Sibling,Teacher,Weekly,09000591406,6
+0086,Zainab,Ayorinde,Zainab Ayorinde,Female,Junior,JSS1,2014,2021,Grandparent,Teacher,Daily,08170606272,10
+0087,Deborah,Adefuye,Deborah Adefuye,Female,Junior,JSS1,2015,2020,Sibling,Teacher,Weekly,08072102115,7
+0088,Solomon,Olatunji,Solomon Olatunji,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Teacher,Bi-Weekly,07030766299,2
+0089,Moses,Aliyu,Moses Aliyu,Male,Junior,JSS1,2013,2022,Aunt/Uncle,Artisan,Rarely,07016708627,5
+0090,Deborah,Onyeama,Deborah Onyeama,Female,Junior,JSS2,2014,2021,Sibling,Technician,Bi-Weekly,07042207127,8
+0091,Dara,Orban,Dara Orban,Female,Junior,JSS1,2014,2021,Sibling,Technician,Daily,08061696064,5
+0092,Fawaz,Adefope,Fawaz Adefope,Male,Junior,JSS3,2013,2022,Sibling,Technician,Daily,09011043912,4
+0093,Halima,Adefuye,Halima Adefuye,Female,Junior,JSS1,2015,2020,Aunt/Uncle,Technician,Weekly,08181423957,8
+0094,Bukola,Abdullahi,Bukola Abdullahi,Female,Junior,JSS2,2012,2023,Aunt/Uncle,Teacher,Daily,09001208718,8
+0095,Joseph,Olonisakin,Joseph Olonisakin,Male,Junior,JSS2,2013,2022,Sibling,Civil Servant,Weekly,08116451493,2
+0096,Charity,Adejuyigbe,Charity Adejuyigbe,Female,Junior,JSS1,2015,2020,Grandparent,Small Business Owner,Weekly,08059649548,8
+0097,Dara,Abdullahi,Dara Abdullahi,Female,Junior,JSS2,2014,2021,Parent,Technician,Daily,08046909491,8
+0098,Tunde,Okoduwa,Tunde Okoduwa,Male,Junior,JSS1,2013,2022,Grandparent,Teacher,Daily,08032947306,2
+0099,Bukola,Odunbaku,Bukola Odunbaku,Female,Junior,JSS3,2011,2024,Aunt/Uncle,Teacher,Bi-Weekly,09055470933,9
+0100,Cleopatra,Oteh,Cleopatra Oteh,Female,Junior,JSS3,2013,2022,Sibling,Technician,Daily,08118914887,6
+0101,Fawaz,Odutola,Fawaz Odutola,Male,Junior,JSS1,2013,2022,Grandparent,Small Business Owner,Bi-Weekly,09098622142,2
+0102,Oluwaseyi,Oseni,Oluwaseyi Oseni,Female,Junior,JSS3,2013,2022,Grandparent,Trader,Bi-Weekly,09000986072,10
+0103,Deborah,Ogunlana,Deborah Ogunlana,Female,Junior,JSS1,2013,2022,Aunt/Uncle,Civil Servant,Daily,08055781898,7
+0104,Kemi,Olujimi,Kemi Olujimi,Female,Junior,JSS3,2013,2022,Aunt/Uncle,Civil Servant,Bi-Weekly,07094596468,7
+0105,Daniel,Aremu,Daniel Aremu,Male,Junior,JSS3,2011,2024,Parent,Technician,Weekly,08013621960,3
+0106,Babatunde,Adefuye,Babatunde Adefuye,Male,Junior,JSS1,2014,2021,Parent,Technician,Daily,07047966670,1
+0107,Adeola,Shoyinka,Adeola Shoyinka,Male,Junior,JSS1,2014,2021,Sibling,Small Business Owner,Bi-Weekly,08091629161,3
+0108,Dara,Adefuye,Dara Adefuye,Female,Junior,JSS3,2011,2024,Sibling,Farmer,Weekly,08130487898,9
+0109,Oreoluwa,Olatunji,Oreoluwa Olatunji,Female,Junior,JSS1,2015,2020,Parent,Civil Servant,Weekly,08102713148,10
+0110,Femi,Abagun,Femi Abagun,Male,Junior,JSS2,2012,2023,Aunt/Uncle,Technician,Weekly,08008739445,3
+0111,Adeola,Maikori,Adeola Maikori,Male,Junior,JSS2,2014,2021,Sibling,Teacher,Daily,08186337354,2
+0112,Joseph,Osakwe,Joseph Osakwe,Male,Junior,JSS3,2012,2023,Parent,Unemployed,Bi-Weekly,08098092754,1
+0113,Donald,Rasaki,Donald Rasaki,Male,Junior,JSS1,2013,2022,Sibling,Small Business Owner,Daily,09090921107,3
+0114,Divine,Akinkugbe,Divine Akinkugbe,Male,Junior,JSS2,2014,2021,Sibling,Small Business Owner,Daily,09088341872,5
+0115,Babatunde,Ubosi,Babatunde Ubosi,Male,Junior,JSS1,2013,2022,Sibling,Civil Servant,Bi-Weekly,08019878417,3
+0116,Michael,Akinde,Michael Akinde,Male,Junior,JSS1,2014,2021,Aunt/Uncle,Civil Servant,Weekly,08154401729,2
+0117,Boluwatife,Bamigboye,Boluwatife Bamigboye,Female,Junior,JSS3,2013,2022,Sibling,Civil Servant,Bi-Weekly,08005727088,9
+0118,Oreoluwa,Oseni,Oreoluwa Oseni,Female,Junior,JSS3,2011,2024,Sibling,Small Business Owner,Weekly,08164982699,10
+0119,Oluwaseyi,Aladesanmi,Oluwaseyi Aladesanmi,Female,Junior,JSS2,2012,2023,Grandparent,Small Business Owner,Bi-Weekly,07013161080,7
+0120,Ibrahim,Onoja,Ibrahim Onoja,Male,Junior,JSS1,2013,2022,Grandparent,Civil Servant,Weekly,09052698145,4
+0121,Solomon,Chukwumerije,Solomon Chukwumerije,Male,Junior,JSS2,2012,2023,Parent,Small Business Owner,Daily,09005095059,2
+0122,Halima,Fatai,Halima Fatai,Female,Junior,JSS2,2013,2022,Parent,Civil Servant,Bi-Weekly,09032360529,2
+0123,Clinton,Adefuye,Clinton Adefuye,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Civil Servant,Weekly,08030286631,4
+0124,Daniel,Madueke,Daniel Madueke,Male,Junior,JSS2,2012,2023,Sibling,Civil Servant,Daily,07020744352,3
+0125,Samson,Olaoye,Samson Olaoye,Male,Junior,JSS3,2013,2022,Sibling,Farmer,Weekly,08151208717,1
+0126,Faith,Udoka,Faith Udoka,Female,Junior,JSS1,2015,2020,Sibling,Artisan,Weekly,08071362479,6
+0127,Aminat,Adetiba,Aminat Adetiba,Female,Junior,JSS2,2013,2022,Sibling,Small Business Owner,Weekly,07003385855,7
+0128,Ibrahim,Alagbe,Ibrahim Alagbe,Male,Junior,JSS3,2013,2022,Sibling,Civil Servant,Bi-Weekly,08074115805,3
+0129,Bukola,Ojulari,Bukola Ojulari,Female,Junior,JSS2,2012,2023,Aunt/Uncle,Civil Servant,Bi-Weekly,09080855309,7
+0130,Samson,Oteh,Samson Oteh,Male,Junior,JSS1,2014,2021,Grandparent,Small Business Owner,Daily,08008039561,2
+0131,Faith,Rasaki,Faith Rasaki,Female,Junior,JSS2,2013,2022,Grandparent,Trader,Weekly,08119607258,6
+0132,Oluchi,Udegbe,Oluchi Udegbe,Female,Junior,JSS2,2013,2022,Parent,Technician,Weekly,09036335959,6
+0133,Comfort,Kolade,Comfort Kolade,Female,Junior,JSS2,2013,2022,Aunt/Uncle,Civil Servant,Weekly,07015682926,10
+0134,Ibrahim,Onwumere,Ibrahim Onwumere,Male,Junior,JSS1,2013,2022,Parent,Technician,Daily,08062151254,1
+0135,Daniel,Idiata,Daniel Idiata,Male,Junior,JSS3,2011,2024,Aunt/Uncle,Technician,Daily,09092250604,5
+0136,Oluchi,Omodiagbe,Oluchi Omodiagbe,Female,Junior,JSS1,2014,2021,Sibling,Technician,Daily,09071028394,9
+0137,Cyllia,Maikori,Cyllia Maikori,Female,Junior,JSS2,2012,2023,Aunt/Uncle,Small Business Owner,Bi-Weekly,08135692295,8
+0138,Dara,Omagbemi,Dara Omagbemi,Female,Junior,JSS1,2014,2021,Grandparent,Technician,Daily,09040297369,7
+0139,Aminat,Adewusi,Aminat Adewusi,Female,Junior,JSS3,2013,2022,Aunt/Uncle,Teacher,Weekly,08058576831,6
+0140,Boluwatife,Okojie,Boluwatife Okojie,Female,Junior,JSS3,2013,2022,Aunt/Uncle,Technician,Bi-Weekly,08012440773,8
+0141,Cleopatra,Aladesanmi,Cleopatra Aladesanmi,Female,Junior,JSS2,2012,2023,Grandparent,Teacher,Bi-Weekly,08199804370,9
+0142,Kemi,Babayaro,Kemi Babayaro,Female,Junior,JSS1,2013,2022,Grandparent,Small Business Owner,Daily,08044007753,7
+0143,Adeola,Onyema,Adeola Onyema,Male,Junior,JSS1,2013,2022,Sibling,Teacher,Daily,08039062544,1
+0144,Femi,Durosinmi,Femi Durosinmi,Male,Junior,JSS1,2013,2022,Grandparent,Teacher,Weekly,08193417181,3
+0145,Emmanuel,Adesokan,Emmanuel Adesokan,Male,Junior,JSS2,2012,2023,Sibling,Civil Servant,Weekly,09053631967,1
+0146,Halima,Ayanbadejo,Halima Ayanbadejo,Female,Junior,JSS3,2013,2022,Sibling,Teacher,Daily,09054510669,7
+0147,Musa,Okposo,Musa Okposo,Male,Junior,JSS2,2014,2021,Sibling,Teacher,Daily,08177078300,5
+0148,Emmanuel,Gwacham,Emmanuel Gwacham,Male,Junior,JSS1,2015,2020,Parent,Civil Servant,Bi-Weekly,08111580888,1
+0149,Babatunde,Udechukwu,Babatunde Udechukwu,Male,Junior,JSS3,2012,2023,Aunt/Uncle,Technician,Bi-Weekly,08053525118,5
+0150,Oluwaseyi,Udebuluzor,Oluwaseyi Udebuluzor,Female,Junior,JSS3,2013,2022,Parent,Civil Servant,Bi-Weekly,09056840964,10
+0151,Adeola,Uwazuruike,Adeola Uwazuruike,Male,Junior,JSS1,2015,2020,Grandparent,Technician,Daily,08002592791,3
+0152,Michael,Abagun,Michael Abagun,Male,Junior,JSS1,2014,2021,Parent,Civil Servant,Bi-Weekly,09015498414,4
+0153,Oreoluwa,Sofoluwe,Oreoluwa Sofoluwe,Female,Junior,JSS3,2011,2024,Sibling,Teacher,Weekly,09065146648,8
+0154,Kemi,Olunloyo,Kemi Olunloyo,Female,Junior,JSS3,2013,2022,Grandparent,Technician,Weekly,08052134327,9
+0155,Samson,Uloko,Samson Uloko,Male,Junior,JSS2,2013,2022,Sibling,Teacher,Bi-Weekly,08103986966,1
+0156,Charity,Madueke,Charity Madueke,Female,Junior,JSS2,2014,2021,Parent,Unemployed,Bi-Weekly,08173335650,10
+0157,Fatima,Oteh,Fatima Oteh,Female,Junior,JSS2,2012,2023,Grandparent,Farmer,Bi-Weekly,07065545898,7
+0158,Cyllia,Olunloyo,Cyllia Olunloyo,Female,Junior,JSS1,2015,2020,Sibling,Small Business Owner,Weekly,08177094317,9
+0159,Bukola,Shoyinka,Bukola Shoyinka,Female,Junior,JSS3,2012,2023,Aunt/Uncle,Civil Servant,Weekly,08012390614,8
+0160,Oluwaseyi,Anjorin,Oluwaseyi Anjorin,Female,Junior,JSS2,2014,2021,Sibling,Teacher,Daily,07040542698,10
+0161,Musa,Gwarzo,Musa Gwarzo,Male,Junior,JSS1,2014,2021,Grandparent,Teacher,Bi-Weekly,08012641295,1
+0162,Toyibat,Ofoedu,Toyibat Ofoedu,Female,Junior,JSS1,2013,2022,Sibling,Technician,Bi-Weekly,07072395963,6
+0163,Oluchi,Ogunode,Oluchi Ogunode,Female,Junior,JSS3,2013,2022,Aunt/Uncle,Technician,Weekly,09005863014,10
+0164,Divine,Madueke,Divine Madueke,Male,Junior,JSS2,2013,2022,Parent,Small Business Owner,Daily,07059255161,3
+0165,Samson,Oseni,Samson Oseni,Male,Junior,JSS2,2012,2023,Sibling,Small Business Owner,Daily,08137593486,1
+0166,Daniel,Ukeje,Daniel Ukeje,Male,Junior,JSS3,2013,2022,Sibling,Trader,Weekly,09073262754,4
+0167,Michael,Dosunmu,Michael Dosunmu,Male,Junior,JSS1,2015,2020,Parent,Technician,Daily,08143551760,4
+0168,Femi,Akraka,Femi Akraka,Male,Junior,JSS2,2013,2022,Grandparent,Teacher,Weekly,08030611841,1
+0169,Yusuf,Udebuluzor,Yusuf Udebuluzor,Male,Junior,JSS1,2013,2022,Aunt/Uncle,Small Business Owner,Weekly,07036931652,4
+0170,Ibrahim,Aremu,Ibrahim Aremu,Male,Junior,JSS1,2014,2021,Sibling,Teacher,Weekly,09009512795,4
+0171,Aminat,Ukeje,Aminat Ukeje,Female,Junior,JSS2,2014,2021,Grandparent,Civil Servant,Weekly,07042112131,6
+0172,Oluwaseyi,Olaoye,Oluwaseyi Olaoye,Female,Junior,JSS2,2014,2021,Parent,Small Business Owner,Bi-Weekly,08050305322,6
+0173,Fatima,Orjinta,Fatima Orjinta,Female,Junior,JSS1,2015,2020,Parent,Civil Servant,Weekly,08174138331,10
+0174,Ayodeji,Abadaki,Ayodeji Abadaki,Male,Junior,JSS3,2012,2023,Parent,Technician,Bi-Weekly,08162242198,3
+0175,Toyibat,Adesokan,Toyibat Adesokan,Female,Junior,JSS2,2014,2021,Parent,Teacher,Daily,07078628248,8
+0176,Adeola,Dosunmu,Adeola Dosunmu,Male,Junior,JSS3,2013,2022,Parent,Teacher,Weekly,09036704633,2
+0177,Cyllia,Oteh,Cyllia Oteh,Female,Junior,JSS3,2013,2022,Parent,Small Business Owner,Bi-Weekly,09026564546,8
+0178,Faith,Olusola,Faith Olusola,Female,Junior,JSS1,2014,2021,Parent,Unemployed,Bi-Weekly,08149697640,7
+0179,Oluchi,Atanda,Oluchi Atanda,Female,Junior,JSS2,2014,2021,Grandparent,Artisan,Rarely,08041430204,10
+0180,Ridwan,Idonije,Ridwan Idonije,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Farmer,Weekly,09013172835,2
+0181,Babatunde,Deniran,Babatunde Deniran,Male,Junior,JSS1,2015,2020,Aunt/Uncle,Teacher,Daily,08007880109,4
+0182,Aminat,Ubosi,Aminat Ubosi,Female,Junior,JSS1,2013,2022,Parent,Civil Servant,Daily,07017570067,10
+0183,Faith,Adefuye,Faith Adefuye,Female,Junior,JSS1,2013,2022,Grandparent,Teacher,Daily,08077860272,5
+0184,Samson,Adefuye,Samson Adefuye,Male,Junior,JSS1,2014,2021,Parent,Technician,Bi-Weekly,07033262294,2
+0185,Kemi,Onwumere,Kemi Onwumere,Female,Junior,JSS2,2012,2023,Parent,Small Business Owner,Daily,09007788112,9
+0186,Oluwaseyi,Olunloyo,Oluwaseyi Olunloyo,Female,Junior,JSS2,2014,2021,Aunt/Uncle,Technician,Daily,08089619437,10
+0187,Faith,Onyeama,Faith Onyeama,Female,Junior,JSS1,2013,2022,Sibling,Technician,Bi-Weekly,09019071688,9
+0188,Michael,Madueke,Michael Madueke,Male,Junior,JSS2,2014,2021,Aunt/Uncle,Technician,Weekly,08153342074,1
+0189,Isreal,Rasaki,Isreal Rasaki,Male,Junior,JSS1,2013,2022,Aunt/Uncle,Technician,Daily,08144776655,4
+0190,Femi,Chukwumerije,Femi Chukwumerije,Male,Junior,JSS1,2015,2020,Parent,Technician,Bi-Weekly,08114312675,5
+0191,David,Ogunlana,David Ogunlana,Male,Junior,JSS1,2013,2022,Sibling,Teacher,Bi-Weekly,07052668479,1
+0192,Samson,Bakare,Samson Bakare,Male,Junior,JSS1,2013,2022,Parent,Civil Servant,Daily,08037291894,3
+0193,Oluwaseyi,Babayaro,Oluwaseyi Babayaro,Female,Junior,JSS3,2012,2023,Grandparent,Small Business Owner,Bi-Weekly,08083359995,6
+0194,Dara,Gwarzo,Dara Gwarzo,Female,Junior,JSS2,2014,2021,Aunt/Uncle,Small Business Owner,Daily,08032657249,10
+0195,Tunde,Idiata,Tunde Idiata,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Civil Servant,Bi-Weekly,07094545764,9
+0196,Daniel,Shoyinka,Daniel Shoyinka,Male,Junior,JSS1,2015,2020,Grandparent,Civil Servant,Daily,09006632749,4
+0197,Charity,Ogun,Charity Ogun,Female,Junior,JSS2,2013,2022,Parent,Civil Servant,Daily,08112202579,9
+0198,Fawaz,Daramola,Fawaz Daramola,Male,Junior,JSS3,2013,2022,Parent,Technician,Weekly,09060601308,5
+0199,Oluchi,Imeh,Oluchi Imeh,Female,Junior,JSS1,2015,2020,Grandparent,Unemployed,Weekly,08133568948,7
+0200,Cleopatra,Bakare,Cleopatra Bakare,Female,Junior,JSS2,2012,2023,Parent,Farmer,Bi-Weekly,08005502429,7
+0201,Yusuf,Udoka,Yusuf Udoka,Male,Junior,JSS3,2013,2022,Aunt/Uncle,Technician,Weekly,08043049435,2
+0202,Dara,Enyinnaya,Dara Enyinnaya,Female,Junior,JSS3,2013,2022,Parent,Trader,Weekly,09083585837,10
+0203,Oluchi,Atanda,Oluchi Atanda,Female,Junior,JSS2,2013,2022,Aunt/Uncle,Unemployed,Weekly,08156267959,9
+0204,Femi,Sofoluwe,Femi Sofoluwe,Male,Junior,JSS1,2015,2020,Sibling,Technician,Daily,09073198431,2
+0205,Halima,Ogunsola,Halima Ogunsola,Female,Junior,JSS3,2011,2024,Aunt/Uncle,Teacher,Bi-Weekly,09064997849,10
+0206,Goodness,Ogunkoya,Goodness Ogunkoya,Female,Junior,JSS3,2011,2024,Aunt/Uncle,Small Business Owner,Weekly,08147022848,6
+0207,Boluwatife,Uloko,Boluwatife Uloko,Female,Junior,JSS2,2014,2021,Aunt/Uncle,Small Business Owner,Weekly,09098656007,7
+0208,Aminat,Adewusi,Aminat Adewusi,Female,Junior,JSS2,2012,2023,Parent,Teacher,Bi-Weekly,08065001551,10
+0209,Comfort,Ameobi,Comfort Ameobi,Female,Junior,JSS1,2014,2021,Grandparent,Technician,Weekly,08181912657,9
+0210,Deborah,Adesokan,Deborah Adesokan,Female,Junior,JSS3,2012,2023,Aunt/Uncle,Teacher,Daily,07020643933,10
+0211,Ibrahim,Odutola,Ibrahim Odutola,Male,Junior,JSS3,2012,2023,Aunt/Uncle,Teacher,Daily,09087990187,4
+0212,Deborah,Omagbemi,Deborah Omagbemi,Female,Junior,JSS1,2014,2021,Parent,Small Business Owner,Weekly,09025636812,8
+0213,Deborah,Atanda,Deborah Atanda,Female,Junior,JSS2,2014,2021,Parent,Technician,Daily,09044768719,9
+0214,Tobi,Olunloyo,Tobi Olunloyo,Male,Junior,JSS2,2012,2023,Parent,Trader,Bi-Weekly,09022175006,5
+0215,Oreoluwa,Olatunji,Oreoluwa Olatunji,Female,Junior,JSS3,2013,2022,Sibling,Teacher,Daily,09055286064,10
+0216,Solomon,Olujimi,Solomon Olujimi,Male,Junior,JSS2,2013,2022,Parent,Technician,Bi-Weekly,08164820383,5
+0217,Cyllia,Ameobi,Cyllia Ameobi,Female,Junior,JSS3,2013,2022,Aunt/Uncle,Technician,Daily,09083515281,9
+0218,Ayodeji,Adejuyigbe,Ayodeji Adejuyigbe,Male,Junior,JSS1,2015,2020,Aunt/Uncle,Artisan,Rarely,09015294790,4
+0219,Joseph,Fuwape,Joseph Fuwape,Male,Junior,JSS2,2014,2021,Aunt/Uncle,Teacher,Weekly,07019865042,10
+0220,Michael,Durosinmi,Michael Durosinmi,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Small Business Owner,Weekly,07077658307,3
+0221,Abdullahi,Oyeleye,Abdullahi Oyeleye,Male,Junior,JSS2,2014,2021,Grandparent,Civil Servant,Daily,07054284433,1
+0222,Adeola,Akanbi,Adeola Akanbi,Male,Junior,JSS3,2013,2022,Parent,Unemployed,Rarely,07012056175,5
+0223,Oreoluwa,Buraimoh,Oreoluwa Buraimoh,Female,Junior,JSS2,2012,2023,Sibling,Technician,Weekly,07030877956,6
+0224,Bukola,Aliyu,Bukola Aliyu,Female,Junior,JSS3,2012,2023,Sibling,Technician,Weekly,07029283686,8
+0225,Toyibat,Onyema,Toyibat Onyema,Female,Junior,JSS3,2012,2023,Sibling,Civil Servant,Daily,09054370807,8
+0226,Bukola,Atanda,Bukola Atanda,Female,Junior,JSS1,2013,2022,Sibling,Civil Servant,Weekly,08083371858,10
+0227,Halima,Olusola,Halima Olusola,Female,Junior,JSS2,2014,2021,Sibling,Technician,Weekly,09021444342,10
+0228,Daniel,Aliyu,Daniel Aliyu,Male,Junior,JSS1,2015,2020,Sibling,Technician,Daily,08083201707,4
+0229,Fawaz,Gwacham,Fawaz Gwacham,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Teacher,Weekly,07082935742,1
+0230,Fawaz,Ujah,Fawaz Ujah,Male,Junior,JSS1,2013,2022,Parent,Technician,Daily,09066352517,1
+0231,Daniel,Ogbonnaya,Daniel Ogbonnaya,Male,Junior,JSS1,2013,2022,Parent,Civil Servant,Daily,08155810597,2
+0232,Moses,Anjorin,Moses Anjorin,Male,Junior,JSS1,2015,2020,Grandparent,Civil Servant,Daily,08002723705,1
+0233,Michael,Adarabioyo,Michael Adarabioyo,Male,Junior,JSS2,2012,2023,Aunt/Uncle,Teacher,Daily,09009644095,1
+0234,Halima,Igbinoghene,Halima Igbinoghene,Female,Junior,JSS1,2015,2020,Sibling,Civil Servant,Weekly,08007426686,8
+0235,Aminat,Daramola,Aminat Daramola,Female,Junior,JSS2,2012,2023,Parent,Teacher,Bi-Weekly,07007277409,7
+0236,Tunde,Ubosi,Tunde Ubosi,Male,Junior,JSS1,2015,2020,Grandparent,Teacher,Daily,07066031113,4
+0237,Dara,Udegbe,Dara Udegbe,Female,Junior,JSS2,2014,2021,Parent,Small Business Owner,Bi-Weekly,07073009286,10
+0238,Moses,Adewusi,Moses Adewusi,Male,Junior,JSS1,2014,2021,Aunt/Uncle,Teacher,Weekly,08129125886,4
+0239,Boluwatife,Omolade,Boluwatife Omolade,Female,Junior,JSS2,2012,2023,Aunt/Uncle,Teacher,Bi-Weekly,08015271082,10
+0240,Ayodeji,Bakare,Ayodeji Bakare,Male,Junior,JSS3,2012,2023,Grandparent,Teacher,Daily,08040867854,2
+0241,Musa,Ajudua,Musa Ajudua,Male,Junior,JSS3,2013,2022,Parent,Teacher,Bi-Weekly,07084591228,3
+0242,Faith,Okoronkwo,Faith Okoronkwo,Female,Junior,JSS2,2012,2023,Grandparent,Technician,Bi-Weekly,08053076174,10
+0243,Moses,Chukwumerije,Moses Chukwumerije,Male,Junior,JSS1,2015,2020,Aunt/Uncle,Teacher,Daily,07032912005,2
+0244,Charity,Balarabe,Charity Balarabe,Female,Junior,JSS2,2014,2021,Parent,Small Business Owner,Bi-Weekly,07030147723,8
+0245,Femi,Ogunoye,Femi Ogunoye,Male,Junior,JSS3,2012,2023,Parent,Civil Servant,Daily,07015494949,3
+0246,Deborah,Akpabio,Deborah Akpabio,Female,Junior,JSS3,2012,2023,Parent,Farmer,Rarely,09018030534,6
+0247,Kemi,Osazuwa,Kemi Osazuwa,Female,Junior,JSS1,2014,2021,Grandparent,Teacher,Daily,08054622912,10
+0248,Samson,Akinjo,Samson Akinjo,Male,Junior,JSS2,2012,2023,Parent,Technician,Daily,09046320721,3
+0249,Dara,Okoronkwo,Dara Okoronkwo,Female,Junior,JSS1,2015,2020,Parent,Technician,Daily,07017587924,9
+0250,Oluwaseyi,Chukwumerije,Oluwaseyi Chukwumerije,Female,Junior,JSS1,2015,2020,Sibling,Small Business Owner,Weekly,08035241554,9
+0251,Oluchi,Adewumi,Oluchi Adewumi,Female,Junior,JSS1,2015,2020,Grandparent,Civil Servant,Bi-Weekly,09038950229,9
+0252,Fatima,Imeh,Fatima Imeh,Female,Junior,JSS2,2012,2023,Grandparent,Small Business Owner,Weekly,07093507682,8
+0253,Donald,Fakeye,Donald Fakeye,Male,Junior,JSS1,2014,2021,Sibling,Teacher,Weekly,07012362873,6
+0254,Deborah,Olujimi,Deborah Olujimi,Female,Junior,JSS1,2015,2020,Grandparent,Civil Servant,Daily,09072524615,8
+0255,Daniel,Uloko,Daniel Uloko,Male,Junior,JSS3,2012,2023,Parent,Technician,Daily,08194187278,3
+0256,Tunde,Ameobi,Tunde Ameobi,Male,Junior,JSS3,2012,2023,Aunt/Uncle,Small Business Owner,Bi-Weekly,09090766203,1
+0257,Moses,Aladefa,Moses Aladefa,Male,Junior,JSS3,2013,2022,Grandparent,Trader,Weekly,08077480321,1
+0258,Donald,Kolade,Donald Kolade,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Civil Servant,Bi-Weekly,08135272125,1
+0259,Halima,Ogunoye,Halima Ogunoye,Female,Junior,JSS3,2012,2023,Grandparent,Civil Servant,Weekly,08151197162,8
+0260,Toyibat,Olunloyo,Toyibat Olunloyo,Female,Junior,JSS2,2014,2021,Grandparent,Small Business Owner,Weekly,07046008442,6
+0261,Solomon,Uwazuruike,Solomon Uwazuruike,Male,Junior,JSS1,2014,2021,Aunt/Uncle,Civil Servant,Bi-Weekly,07006699375,2
+0262,Bukola,Otedola,Bukola Otedola,Female,Junior,JSS2,2013,2022,Grandparent,Teacher,Daily,09034753671,7
+0263,Deborah,Udoka,Deborah Udoka,Female,Junior,JSS2,2013,2022,Sibling,Civil Servant,Bi-Weekly,07080809915,7
+0264,Adeola,Adeniran,Adeola Adeniran,Male,Junior,JSS1,2014,2021,Aunt/Uncle,Teacher,Weekly,08088028133,3
+0265,Divine,Shoyinka,Divine Shoyinka,Male,Junior,JSS1,2013,2022,Sibling,Trader,Weekly,08057240969,4
+0266,Zainab,Madueke,Zainab Madueke,Female,Junior,JSS3,2013,2022,Grandparent,Teacher,Daily,09069644407,6
+0267,Halima,Bakare,Halima Bakare,Female,Junior,JSS3,2013,2022,Grandparent,Civil Servant,Daily,08184322490,9
+0268,Babatunde,Oyeleye,Babatunde Oyeleye,Male,Junior,JSS1,2013,2022,Parent,Civil Servant,Weekly,07012868143,1
+0269,Femi,Okposo,Femi Okposo,Male,Junior,JSS1,2014,2021,Sibling,Small Business Owner,Bi-Weekly,07057503618,4
+0270,Musa,Adarabioyo,Musa Adarabioyo,Male,Junior,JSS2,2012,2023,Parent,Small Business Owner,Bi-Weekly,09054755034,3
+0271,Tunde,Ogbodo,Tunde Ogbodo,Male,Junior,JSS1,2015,2020,Aunt/Uncle,Civil Servant,Bi-Weekly,08055944945,1
+0272,Fatima,Olaoye,Fatima Olaoye,Female,Junior,JSS2,2013,2022,Aunt/Uncle,Technician,Daily,07082505378,9
+0273,Ridwan,Okoduwa,Ridwan Okoduwa,Male,Junior,JSS2,2013,2022,Parent,Artisan,Rarely,08036079549,1
+0274,Zainab,Ayorinde,Zainab Ayorinde,Female,Junior,JSS2,2014,2021,Grandparent,Small Business Owner,Daily,08164806963,9
+0275,Isreal,Olaoye,Isreal Olaoye,Male,Junior,JSS3,2013,2022,Parent,Civil Servant,Daily,09063287068,5
+0276,Faith,Osazuwa,Faith Osazuwa,Female,Junior,JSS2,2012,2023,Parent,Civil Servant,Weekly,09072811693,6
+0277,Daniel,Odita,Daniel Odita,Male,Junior,JSS3,2013,2022,Parent,Teacher,Weekly,09031580969,1
+0278,Ridwan,Aladefa,Ridwan Aladefa,Male,Junior,JSS2,2012,2023,Grandparent,Civil Servant,Weekly,08024773003,4
+0279,Adeola,Adekugbe,Adeola Adekugbe,Male,Junior,JSS1,2013,2022,Grandparent,Teacher,Weekly,07081901433,1
+0280,Yusuf,Shoyinka,Yusuf Shoyinka,Male,Junior,JSS2,2013,2022,Grandparent,Teacher,Daily,07019445551,5
+0281,Michael,Idahor,Michael Idahor,Male,Junior,JSS3,2012,2023,Grandparent,Small Business Owner,Daily,07057001583,3
+0282,Oluwaseyi,Otedola,Oluwaseyi Otedola,Female,Junior,JSS2,2013,2022,Aunt/Uncle,Small Business Owner,Weekly,08048126655,4
+0283,Faith,Tanimowo,Faith Tanimowo,Female,Junior,JSS3,2013,2022,Parent,Civil Servant,Daily,07010411679,9
+0284,Dara,Ukeje,Dara Ukeje,Female,Junior,JSS3,2012,2023,Sibling,Teacher,Daily,08060371558,9
+0285,David,Gwacham,David Gwacham,Male,Junior,JSS1,2014,2021,Sibling,Small Business Owner,Daily,07047971675,1
+0286,Ibrahim,Okongwu,Ibrahim Okongwu,Male,Junior,JSS1,2013,2022,Sibling,Civil Servant,Bi-Weekly,09093857612,1
+0287,Goodness,Kolade,Goodness Kolade,Female,Junior,JSS1,2013,2022,Sibling,Small Business Owner,Weekly,08023342206,6
+0288,Faith,Ogbonnaya,Faith Ogbonnaya,Female,Junior,JSS2,2014,2021,Parent,Civil Servant,Weekly,09034130109,9
+0289,Cyllia,Oyeleye,Cyllia Oyeleye,Female,Junior,JSS3,2012,2023,Sibling,Small Business Owner,Bi-Weekly,07088490051,6
+0290,Moses,Rasaki,Moses Rasaki,Male,Junior,JSS1,2015,2020,Aunt/Uncle,Small Business Owner,Bi-Weekly,09072429226,2
+0291,Kemi,Eniola,Kemi Eniola,Female,Junior,JSS1,2015,2020,Aunt/Uncle,Technician,Bi-Weekly,08136931378,9
+0292,Tunde,Ayanbadejo,Tunde Ayanbadejo,Male,Junior,JSS2,2014,2021,Grandparent,Civil Servant,Weekly,07039240277,9
+0293,Ayodeji,Daramola,Ayodeji Daramola,Male,Junior,JSS2,2014,2021,Aunt/Uncle,Technician,Bi-Weekly,09079321806,9
+0294,Tunde,Olujimi,Tunde Olujimi,Male,Junior,JSS3,2013,2022,Parent,Technician,Bi-Weekly,08048885548,5
+0295,Oreoluwa,Adarabioyo,Oreoluwa Adarabioyo,Female,Junior,JSS1,2013,2022,Parent,Teacher,Bi-Weekly,09025352384,7
+0296,Abdullahi,Akindele,Abdullahi Akindele,Male,Junior,JSS2,2013,2022,Grandparent,Civil Servant,Weekly,08148285367,5
+0297,Zainab,Adetiba,Zainab Adetiba,Female,Junior,JSS1,2013,2022,Parent,Teacher,Daily,07099180958,9
+0298,Oreoluwa,Adebutu,Oreoluwa Adebutu,Female,Junior,JSS3,2013,2022,Sibling,Civil Servant,Daily,07044500823,7
+0299,David,Adewusi,David Adewusi,Male,Junior,JSS3,2011,2024,Parent,Civil Servant,Daily,07050696801,5
+0300,Yusuf,Umelo,Yusuf Umelo,Male,Junior,JSS1,2015,2020,Grandparent,Civil Servant,Bi-Weekly,08153342006,1
+0301,Musa,Folayan,Musa Folayan,Male,Junior,JSS3,2012,2023,Sibling,Small Business Owner,Daily,07033102327,1
+0302,Fatima,Onyeama,Fatima Onyeama,Female,Junior,JSS2,2013,2022,Parent,Civil Servant,Daily,08063725800,10
+0303,Cyllia,Ofoedu,Cyllia Ofoedu,Female,Junior,JSS1,2015,2020,Sibling,Civil Servant,Weekly,07057229833,7
+0304,Femi,Akraka,Femi Akraka,Male,Junior,JSS2,2012,2023,Parent,Civil Servant,Bi-Weekly,08047676216,2
+0305,Daniel,Ibekwe,Daniel Ibekwe,Male,Junior,JSS1,2015,2020,Parent,Teacher,Daily,09044050484,3
+0306,Zainab,Agbetu,Zainab Agbetu,Female,Junior,JSS1,2014,2021,Grandparent,Civil Servant,Daily,08182541630,8
+0307,Solomon,Onyema,Solomon Onyema,Male,Junior,JSS2,2014,2021,Aunt/Uncle,Civil Servant,Weekly,09037198879,2
+0308,Boluwatife,Okposo,Boluwatife Okposo,Female,Junior,JSS1,2014,2021,Aunt/Uncle,Technician,Weekly,08194841938,6
+0309,Divine,Aliyu,Divine Aliyu,Male,Junior,JSS3,2011,2024,Aunt/Uncle,Small Business Owner,Daily,07091821795,3
+0310,Ibrahim,Gwacham,Ibrahim Gwacham,Male,Junior,JSS3,2011,2024,Sibling,Teacher,Bi-Weekly,07053853232,5
+0311,Goodness,Balarabe,Goodness Balarabe,Female,Junior,JSS2,2013,2022,Grandparent,Civil Servant,Bi-Weekly,07059805831,6
+0312,Aminat,Onwumere,Aminat Onwumere,Female,Junior,JSS3,2012,2023,Sibling,Small Business Owner,Bi-Weekly,08094524753,6
+0313,Fatima,Okongwu,Fatima Okongwu,Female,Junior,JSS1,2015,2020,Parent,Trader,Bi-Weekly,08036083209,10
+0314,Cyllia,Adekugbe,Cyllia Adekugbe,Female,Junior,JSS2,2013,2022,Aunt/Uncle,Civil Servant,Weekly,09055091512,10
+0315,Daniel,Idiata,Daniel Idiata,Male,Junior,JSS3,2013,2022,Aunt/Uncle,Small Business Owner,Weekly,09038927088,4
+0316,Boluwatife,Okojie,Boluwatife Okojie,Female,Junior,JSS1,2013,2022,Aunt/Uncle,Teacher,Weekly,08046308417,7
+0317,Oreoluwa,Deniran,Oreoluwa Deniran,Female,Junior,JSS3,2012,2023,Grandparent,Civil Servant,Daily,08101691523,10
+0318,Cyllia,Adedibu,Cyllia Adedibu,Female,Junior,JSS2,2012,2023,Sibling,Teacher,Bi-Weekly,08150677290,8
+0319,Fatima,Bamigboye,Fatima Bamigboye,Female,Junior,JSS1,2013,2022,Sibling,Small Business Owner,Daily,08005481741,8
+0320,Tunde,Ibekwe,Tunde Ibekwe,Male,Junior,JSS3,2012,2023,Grandparent,Technician,Weekly,08173141159,9
+0321,Cleopatra,Ogunkoya,Cleopatra Ogunkoya,Female,Junior,JSS2,2012,2023,Grandparent,Small Business Owner,Daily,08057306251,10
+0322,Clinton,Udebuluzor,Clinton Udebuluzor,Male,Junior,JSS1,2015,2020,Aunt/Uncle,Unemployed,Weekly,08094162322,1
+0323,Daniel,Udechukwu,Daniel Udechukwu,Male,Junior,JSS3,2012,2023,Grandparent,Technician,Weekly,07084937866,4
+0324,Dara,Aliyu,Dara Aliyu,Female,Junior,JSS2,2013,2022,Aunt/Uncle,Civil Servant,Daily,08099600485,8
+0325,Aminat,Ayorinde,Aminat Ayorinde,Female,Junior,JSS3,2012,2023,Parent,Technician,Weekly,08054960628,1
+0326,Cleopatra,Otedola,Cleopatra Otedola,Female,Junior,JSS1,2013,2022,Aunt/Uncle,Teacher,Daily,08063606741,9
+0327,Fawaz,Onwumere,Fawaz Onwumere,Male,Junior,JSS2,2013,2022,Parent,Small Business Owner,Daily,08150092992,1
+0328,Samson,Oyeleye,Samson Oyeleye,Male,Junior,JSS2,2012,2023,Aunt/Uncle,Small Business Owner,Weekly,08166525778,1
+0329,Comfort,Aladefa,Comfort Aladefa,Female,Junior,JSS3,2011,2024,Parent,Teacher,Bi-Weekly,08179011250,10
+0330,Boluwatife,Ofoedu,Boluwatife Ofoedu,Female,Junior,JSS1,2015,2020,Grandparent,Teacher,Weekly,09067906490,7
+0331,Dara,Dosunmu,Dara Dosunmu,Female,Junior,JSS1,2013,2022,Parent,Civil Servant,Bi-Weekly,08000082498,6
+0332,Aminat,Bakare,Aminat Bakare,Female,Junior,JSS1,2015,2020,Aunt/Uncle,Teacher,Bi-Weekly,08058225862,6
+0333,Faith,Udebuluzor,Faith Udebuluzor,Female,Junior,JSS1,2013,2022,Sibling,Technician,Weekly,07048712175,6
+0334,Musa,Okojie,Musa Okojie,Male,Junior,JSS3,2013,2022,Parent,Teacher,Bi-Weekly,08011539222,3
+0335,Fatima,Enyinnaya,Fatima Enyinnaya,Female,Junior,JSS3,2012,2023,Aunt/Uncle,Teacher,Weekly,09039108178,6
+0336,Yusuf,Ajudua,Yusuf Ajudua,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Small Business Owner,Daily,08069302426,4
+0337,Halima,Yesufu,Halima Yesufu,Female,Junior,JSS2,2014,2021,Grandparent,Technician,Weekly,08106249394,7
+0338,Donald,Ogbodo,Donald Ogbodo,Male,Junior,JSS2,2014,2021,Grandparent,Teacher,Daily,08057787190,2
+0339,Halima,Daramola,Halima Daramola,Female,Junior,JSS3,2012,2023,Sibling,Civil Servant,Bi-Weekly,07010582520,9
+0340,Halima,Yesufu,Halima Yesufu,Female,Junior,JSS1,2014,2021,Parent,Civil Servant,Bi-Weekly,08136596436,9
+0341,Samson,Omagbemi,Samson Omagbemi,Male,Junior,JSS2,2014,2021,Aunt/Uncle,Small Business Owner,Bi-Weekly,09007045542,4
+0342,Fawaz,Ojulari,Fawaz Ojulari,Male,Junior,JSS2,2013,2022,Parent,Teacher,Daily,09058777675,3
+0343,Ridwan,Eniola,Ridwan Eniola,Male,Junior,JSS1,2014,2021,Grandparent,Civil Servant,Bi-Weekly,08053922023,5
+0344,David,Abadaki,David Abadaki,Male,Junior,JSS3,2012,2023,Aunt/Uncle,Small Business Owner,Bi-Weekly,07042557103,8
+0345,Halima,Ogbonnaya,Halima Ogbonnaya,Female,Junior,JSS2,2012,2023,Aunt/Uncle,Small Business Owner,Weekly,07044928321,8
+0346,David,Oyeleye,David Oyeleye,Male,Junior,JSS1,2013,2022,Sibling,Artisan,Bi-Weekly,07071644241,1
+0347,Babatunde,Aliyu,Babatunde Aliyu,Male,Junior,JSS2,2013,2022,Parent,Teacher,Bi-Weekly,08016517644,3
+0348,Zainab,Akinde,Zainab Akinde,Female,Junior,JSS3,2013,2022,Aunt/Uncle,Small Business Owner,Weekly,08059520630,9
+0349,Oluchi,Fakeye,Oluchi Fakeye,Female,Junior,JSS2,2013,2022,Grandparent,Teacher,Daily,08101310675,8
+0350,Daniel,Daramola,Daniel Daramola,Male,Junior,JSS2,2013,2022,Parent,Small Business Owner,Daily,08014051359,4
+0351,Ridwan,Odunbaku,Ridwan Odunbaku,Male,Junior,JSS3,2012,2023,Grandparent,Technician,Daily,09077903366,3
+0352,Fatima,Ameobi,Fatima Ameobi,Female,Junior,JSS3,2011,2024,Grandparent,Teacher,Weekly,08067822349,6
+0353,Abdullahi,Odutola,Abdullahi Odutola,Male,Junior,JSS3,2011,2024,Parent,Civil Servant,Weekly,08036460092,2
+0354,Bukola,Ogedegbe,Bukola Ogedegbe,Female,Junior,JSS2,2012,2023,Aunt/Uncle,Small Business Owner,Daily,09091315793,9
+0355,Charity,Onyema,Charity Onyema,Female,Junior,JSS3,2013,2022,Sibling,Technician,Daily,08187777677,9
+0356,Oluchi,Aremu,Oluchi Aremu,Female,Junior,JSS2,2012,2023,Parent,Technician,Bi-Weekly,09003349531,7
+0357,Femi,Adesokan,Femi Adesokan,Male,Junior,JSS3,2011,2024,Aunt/Uncle,Technician,Daily,07045977260,2
+0358,Bukola,Akpabio,Bukola Akpabio,Female,Junior,JSS1,2013,2022,Grandparent,Small Business Owner,Daily,08147185812,6
+0359,Ayodeji,Fakeye,Ayodeji Fakeye,Male,Junior,JSS3,2012,2023,Aunt/Uncle,Artisan,Rarely,07066087394,1
+0360,Faith,Okoduwa,Faith Okoduwa,Female,Junior,JSS3,2012,2023,Aunt/Uncle,Small Business Owner,Weekly,07068216638,10
+0361,Fawaz,Ogbongbemiga,Fawaz Ogbongbemiga,Male,Junior,JSS1,2015,2020,Grandparent,Civil Servant,Bi-Weekly,08045289536,5
+0362,Boluwatife,Adejuyigbe,Boluwatife Adejuyigbe,Female,Junior,JSS3,2012,2023,Grandparent,Technician,Weekly,07057422515,6
+0363,Musa,Adeniran,Musa Adeniran,Male,Junior,JSS2,2013,2022,Grandparent,Civil Servant,Bi-Weekly,09029204388,5
+0364,Divine,Aremu,Divine Aremu,Male,Junior,JSS2,2012,2023,Parent,Technician,Weekly,07053910330,1
+0365,Charity,Babayaro,Charity Babayaro,Female,Junior,JSS1,2013,2022,Parent,Teacher,Weekly,08007971677,8
+0366,Ibrahim,Balarabe,Ibrahim Balarabe,Male,Junior,JSS1,2013,2022,Sibling,Technician,Bi-Weekly,08008615106,2
+0367,Oluwaseyi,Umelo,Oluwaseyi Umelo,Female,Junior,JSS1,2014,2021,Sibling,Farmer,Weekly,08114460723,9
+0368,Goodness,Adetiba,Goodness Adetiba,Female,Junior,JSS2,2012,2023,Grandparent,Teacher,Bi-Weekly,08063083850,8
+0369,Halima,Ogunsola,Halima Ogunsola,Female,Junior,JSS2,2014,2021,Grandparent,Teacher,Bi-Weekly,09008877079,8
+0370,Kemi,Uwazuruike,Kemi Uwazuruike,Female,Junior,JSS3,2011,2024,Parent,Civil Servant,Bi-Weekly,07000944767,7
+0371,Dara,Adedibu,Dara Adedibu,Female,Junior,JSS2,2014,2021,Grandparent,Small Business Owner,Daily,08025780227,3
+0372,Femi,Okoronkwo,Femi Okoronkwo,Male,Junior,JSS2,2012,2023,Grandparent,Farmer,Weekly,09026052751,5
+0373,Tobi,Fuwape,Tobi Fuwape,Male,Junior,JSS3,2012,2023,Grandparent,Technician,Weekly,08103939083,3
+0374,Zainab,Ogbongbemiga,Zainab Ogbongbemiga,Female,Junior,JSS2,2012,2023,Parent,Teacher,Bi-Weekly,08177091707,7
+0375,Ayodeji,Okoduwa,Ayodeji Okoduwa,Male,Junior,JSS2,2012,2023,Aunt/Uncle,Small Business Owner,Weekly,08077681297,2
+0376,Aminat,Olaoye,Aminat Olaoye,Female,Junior,JSS1,2014,2021,Parent,Small Business Owner,Bi-Weekly,09079227429,6
+0377,Divine,Anjorin,Divine Anjorin,Male,Junior,JSS3,2011,2024,Parent,Civil Servant,Daily,09084916136,1
+0378,Aminat,Adefuye,Aminat Adefuye,Female,Junior,JSS2,2014,2021,Parent,Civil Servant,Daily,08129483035,10
+0379,Samson,Balarabe,Samson Balarabe,Male,Junior,JSS1,2014,2021,Aunt/Uncle,Technician,Bi-Weekly,08099384789,1
+0380,Ridwan,Omolade,Ridwan Omolade,Male,Junior,JSS3,2011,2024,Aunt/Uncle,Civil Servant,Weekly,07031425762,2
+0381,Toyibat,Adefope,Toyibat Adefope,Female,Junior,JSS1,2015,2020,Grandparent,Small Business Owner,Bi-Weekly,09064946475,6
+0382,Comfort,Adarabioyo,Comfort Adarabioyo,Female,Junior,JSS3,2012,2023,Parent,Technician,Bi-Weekly,08072697598,2
+0383,Abdullahi,Ogedegbe,Abdullahi Ogedegbe,Male,Junior,JSS1,2013,2022,Sibling,Small Business Owner,Bi-Weekly,08163806574,1
+0384,Divine,Idahosa,Divine Idahosa,Male,Junior,JSS1,2013,2022,Sibling,Teacher,Weekly,08159405527,1
+0385,Joseph,Olukoya,Joseph Olukoya,Male,Junior,JSS1,2014,2021,Parent,Technician,Weekly,08105052750,3
+0386,Michael,Omagbemi,Michael Omagbemi,Male,Junior,JSS2,2014,2021,Parent,Small Business Owner,Daily,08190681949,3
+0387,Tunde,Buraimoh,Tunde Buraimoh,Male,Junior,JSS2,2013,2022,Grandparent,Technician,Weekly,09008662202,4
+0388,Boluwatife,Orban,Boluwatife Orban,Female,Junior,JSS3,2012,2023,Parent,Unemployed,Weekly,09077061023,7
+0389,Yusuf,Okposo,Yusuf Okposo,Male,Junior,JSS2,2014,2021,Parent,Technician,Daily,09037391257,3
+0390,Halima,Ogunsola,Halima Ogunsola,Female,Junior,JSS3,2013,2022,Sibling,Small Business Owner,Weekly,07017672698,7
+0391,Abdullahi,Ogunoye,Abdullahi Ogunoye,Male,Junior,JSS2,2013,2022,Aunt/Uncle,Teacher,Daily,08144616457,4
+0392,Deborah,Omolade,Deborah Omolade,Female,Junior,JSS1,2013,2022,Grandparent,Unemployed,Weekly,08191798493,8
+0393,Clinton,Ofoedu,Clinton Ofoedu,Male,Junior,JSS3,2011,2024,Sibling,Small Business Owner,Bi-Weekly,08103308245,3
+0394,Kemi,Fakeye,Kemi Fakeye,Female,Junior,JSS2,2014,2021,Parent,Farmer,Bi-Weekly,09056928601,6
+0395,Adeola,Alagbe,Adeola Alagbe,Male,Junior,JSS1,2013,2022,Grandparent,Artisan,Weekly,08124368178,2
+0396,Goodness,Abagun,Goodness Abagun,Female,Junior,JSS1,2014,2021,Grandparent,Teacher,Bi-Weekly,08168823192,10
+0397,Fatima,Adefuye,Fatima Adefuye,Female,Junior,JSS1,2014,2021,Aunt/Uncle,Civil Servant,Bi-Weekly,08066018915,6
+0398,Cyllia,Omodiagbe,Cyllia Omodiagbe,Female,Junior,JSS3,2012,2023,Sibling,Farmer,Bi-Weekly,07049589365,8
+0399,Bukola,Abadaki,Bukola Abadaki,Female,Junior,JSS3,2011,2024,Grandparent,Small Business Owner,Weekly,07076670073,10
+0400,Divine,Osazuwa,Divine Osazuwa,Male,Junior,JSS2,2013,2022,Sibling,Teacher,Daily,08046963423,4
+0401,Abdullahi,Akinjo,Abdullahi Akinjo,Male,Art,SS3,2008,2023,Aunt/Uncle,Technician,Bi-Weekly,08144633853,2
+0402,Aminat,Akanbi,Aminat Akanbi,Female,Science,SS1,2009,2022,Aunt/Uncle,Civil Servant,Weekly,09026153533,6
+0403,Cleopatra,Imeh,Cleopatra Imeh,Female,Science,SS3,2008,2023,Aunt/Uncle,Small Business Owner,Daily,07055383831,9
+0404,Oreoluwa,Ofoedu,Oreoluwa Ofoedu,Female,Art,SS3,2007,2024,Aunt/Uncle,Teacher,Weekly,07045931989,9
+0405,Kemi,Ogunode,Kemi Ogunode,Female,Commercial,SS3,2007,2024,Parent,Small Business Owner,Daily,08128424139,9
+0406,Emmanuel,Ogunsola,Emmanuel Ogunsola,Male,Art,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Bi-Weekly,09064706436,7
+0407,Abdullahi,Abaribe,Abdullahi Abaribe,Male,Commercial,SS3,2008,2023,Parent,Small Business Owner,Weekly,08004961973,2
+0408,Daniel,Ogunkoya,Daniel Ogunkoya,Male,Commercial,SS3,2007,2024,Aunt/Uncle,Teacher,Bi-Weekly,08122905101,4
+0409,Halima,Oseni,Halima Oseni,Female,Art,SS2,2008,2023,Parent,Engineer,Daily,08099707859,10
+0410,Daniel,Ameobi,Daniel Ameobi,Male,Art,SS2,2009,2022,Sibling,Technician,Weekly,09018198178,1
+0411,Deborah,Ogbodo,Deborah Ogbodo,Female,Art,SS2,2008,2023,Sibling,Technician,Bi-Weekly,08013610237,7
+0412,Zainab,Onyema,Zainab Onyema,Female,Art,SS3,2008,2023,Grandparent,Teacher,Daily,08114367494,7
+0413,Boluwatife,Ajudua,Boluwatife Ajudua,Female,Art,SS2,2008,2023,Aunt/Uncle,Technician,Bi-Weekly,08175335378,10
+0414,Toyibat,Abagun,Toyibat Abagun,Female,Science,SS2,2008,2023,Grandparent,Small Business Owner,Bi-Weekly,07064347265,6
+0415,Isreal,Onwumere,Isreal Onwumere,Male,Art,SS1,2010,2021,Parent,Small Business Owner,Bi-Weekly,08160851436,3
+0416,Oreoluwa,Olaoye,Oreoluwa Olaoye,Female,Art,SS2,2009,2022,Aunt/Uncle,Technician,Daily,07004202567,9
+0417,Michael,Adarabioyo,Michael Adarabioyo,Male,Science,SS3,2008,2023,Grandparent,Farmer,Bi-Weekly,08058514876,4
+0418,Michael,Abaribe,Michael Abaribe,Male,Art,SS3,2007,2024,Sibling,Small Business Owner,Daily,07065759232,2
+0419,Charity,Ihemeje,Charity Ihemeje,Female,Commercial,SS1,2010,2021,Grandparent,Small Business Owner,Bi-Weekly,08001357202,10
+0420,Yusuf,Ogbodo,Yusuf Ogbodo,Male,Science,SS3,2007,2024,Sibling,Technician,Bi-Weekly,09033863252,5
+0421,Yusuf,Aremu,Yusuf Aremu,Male,Science,SS3,2008,2023,Grandparent,Technician,Daily,08085345273,2
+0422,Halima,Folayan,Halima Folayan,Female,Art,SS3,2007,2024,Grandparent,Teacher,Daily,07083726269,8
+0423,Charity,Ubosi,Charity Ubosi,Female,Art,SS2,2008,2023,Sibling,Civil Servant,Bi-Weekly,07025350902,8
+0424,Deborah,Monye,Deborah Monye,Female,Art,SS2,2009,2022,Grandparent,Civil Servant,Daily,09066389524,10
+0425,Charity,Umelo,Charity Umelo,Female,Commercial,SS1,2010,2021,Grandparent,Small Business Owner,Bi-Weekly,08055835306,8
+0426,Fatima,Ayorinde,Fatima Ayorinde,Female,Art,SS2,2009,2022,Grandparent,Small Business Owner,Daily,07061898520,8
+0427,Femi,Okposo,Femi Okposo,Male,Art,SS2,2008,2023,Parent,Technician,Weekly,08023782594,4
+0428,Oluwaseyi,Aladesanmi,Oluwaseyi Aladesanmi,Female,Science,SS2,2008,2023,Parent,Small Business Owner,Daily,09068965010,7
+0429,Tunde,Daramola,Tunde Daramola,Male,Science,SS1,2010,2021,Grandparent,Small Business Owner,Weekly,09015300413,3
+0430,Faith,Ogunode,Faith Ogunode,Female,Art,SS2,2008,2023,Grandparent,Teacher,Weekly,09006182772,9
+0431,Adeola,Akinjo,Adeola Akinjo,Male,Commercial,SS3,2008,2023,Aunt/Uncle,Farmer,Bi-Weekly,07081234069,1
+0432,Adeola,Ogunsola,Adeola Ogunsola,Male,Commercial,SS2,2008,2023,Grandparent,Technician,Weekly,08113194609,2
+0433,Emmanuel,Aladefa,Emmanuel Aladefa,Male,Science,SS1,2009,2022,Sibling,Teacher,Weekly,08177524148,2
+0434,Fatima,Akinjo,Fatima Akinjo,Female,Art,SS1,2009,2022,Parent,Teacher,Weekly,08168546041,10
+0435,Moses,Adetiba,Moses Adetiba,Male,Science,SS2,2008,2023,Grandparent,Technician,Weekly,07061549093,4
+0436,Daniel,Odita,Daniel Odita,Male,Art,SS1,2009,2022,Grandparent,Civil Servant,Daily,08075159868,8
+0437,Femi,Ajudua,Femi Ajudua,Male,Commercial,SS3,2007,2024,Parent,Small Business Owner,Bi-Weekly,07026089546,5
+0438,Oluchi,Akanbi,Oluchi Akanbi,Female,Art,SS3,2007,2024,Sibling,Civil Servant,Bi-Weekly,07069622925,10
+0439,Dara,Ogbodo,Dara Ogbodo,Female,Commercial,SS1,2010,2021,Parent,Teacher,Daily,07077693324,5
+0440,Solomon,Idiata,Solomon Idiata,Male,Commercial,SS3,2007,2024,Parent,Teacher,Weekly,08048665185,5
+0441,Faith,Odunbaku,Faith Odunbaku,Female,Science,SS1,2009,2022,Sibling,Civil Servant,Daily,07077081809,6
+0442,Aminat,Adefuye,Aminat Adefuye,Female,Science,SS1,2010,2021,Sibling,Civil Servant,Weekly,07054811827,6
+0443,Zainab,Orjinta,Zainab Orjinta,Female,Science,SS1,2009,2022,Aunt/Uncle,Teacher,Weekly,08181297576,10
+0444,Samson,Olusola,Samson Olusola,Male,Science,SS1,2010,2021,Parent,Lecturer,Daily,09051119611,3
+0445,Isreal,Ogunoye,Isreal Ogunoye,Male,Science,SS3,2008,2023,Parent,Teacher,Weekly,07049578026,3
+0446,David,Olujimi,David Olujimi,Male,Commercial,SS2,2008,2023,Sibling,Technician,Bi-Weekly,07002304921,5
+0447,Babatunde,Ukeje,Babatunde Ukeje,Male,Commercial,SS2,2009,2022,Aunt/Uncle,Technician,Bi-Weekly,09055276654,5
+0448,Ibrahim,Aliyu,Ibrahim Aliyu,Male,Art,SS1,2010,2021,Grandparent,Small Business Owner,Weekly,08056266160,3
+0449,Femi,Maikori,Femi Maikori,Male,Science,SS1,2009,2022,Grandparent,Teacher,Weekly,08172729613,3
+0450,Zainab,Kolade,Zainab Kolade,Female,Art,SS1,2010,2021,Grandparent,Technician,Daily,08084970634,9
+0451,Divine,Uwazuruike,Divine Uwazuruike,Male,Art,SS1,2009,2022,Aunt/Uncle,Technician,Bi-Weekly,08018918585,3
+0452,Joseph,Fakeye,Joseph Fakeye,Male,Commercial,SS2,2008,2023,Grandparent,Unemployed,Weekly,09026420721,4
+0453,Isreal,Onyeka,Isreal Onyeka,Male,Commercial,SS1,2009,2022,Grandparent,Teacher,Bi-Weekly,08020380181,3
+0454,Dara,Ogunoye,Dara Ogunoye,Female,Commercial,SS1,2009,2022,Grandparent,Banker,Daily,08128092017,7
+0455,Daniel,Omolade,Daniel Omolade,Male,Commercial,SS1,2010,2021,Sibling,Teacher,Daily,08054958699,4
+0456,Clinton,Durosinmi,Clinton Durosinmi,Male,Science,SS2,2008,2023,Parent,Small Business Owner,Daily,09038378893,3
+0457,Oreoluwa,Umelo,Oreoluwa Umelo,Female,Art,SS1,2009,2022,Parent,Small Business Owner,Weekly,08064311399,6
+0458,Tunde,Chukwumerije,Tunde Chukwumerije,Male,Science,SS3,2007,2024,Grandparent,Teacher,Bi-Weekly,07084249374,1
+0459,Halima,Onyeka,Halima Onyeka,Female,Commercial,SS3,2007,2024,Grandparent,Civil Servant,Bi-Weekly,08176676469,6
+0460,Deborah,Oliha,Deborah Oliha,Female,Science,SS3,2007,2024,Parent,Technician,Bi-Weekly,09060189696,7
+0461,Divine,Igbinoghene,Divine Igbinoghene,Male,Science,SS3,2007,2024,Parent,Teacher,Bi-Weekly,07053425278,1
+0462,Tunde,Olatunji,Tunde Olatunji,Male,Art,SS3,2008,2023,Parent,Small Business Owner,Weekly,07002536208,3
+0463,Donald,Anjorin,Donald Anjorin,Male,Science,SS2,2008,2023,Sibling,Civil Servant,Bi-Weekly,09032906913,2
+0464,Comfort,Adegbenro,Comfort Adegbenro,Female,Science,SS3,2007,2024,Sibling,Small Business Owner,Bi-Weekly,08086079212,10
+0465,Joseph,Adewumi,Joseph Adewumi,Male,Science,SS2,2009,2022,Aunt/Uncle,Teacher,Daily,08145767235,1
+0466,Boluwatife,Olonisakin,Boluwatife Olonisakin,Female,Science,SS1,2010,2021,Sibling,Teacher,Weekly,08077532257,6
+0467,Goodness,Olunloyo,Goodness Olunloyo,Female,Art,SS3,2007,2024,Sibling,Small Business Owner,Daily,08166894013,8
+0468,Clinton,Onyema,Clinton Onyema,Male,Science,SS3,2008,2023,Parent,Teacher,Weekly,07042323073,2
+0469,Oreoluwa,Alagbe,Oreoluwa Alagbe,Female,Science,SS2,2008,2023,Sibling,Civil Servant,Bi-Weekly,08151367281,10
+0470,Zainab,Ogunode,Zainab Ogunode,Female,Science,SS2,2008,2023,Parent,Unemployed,Rarely,08001811566,10
+0471,Toyibat,Idonije,Toyibat Idonije,Female,Science,SS1,2009,2022,Grandparent,Civil Servant,Daily,08175104873,10
+0472,Fawaz,Kolade,Fawaz Kolade,Male,Art,SS2,2009,2022,Aunt/Uncle,Teacher,Weekly,08019009613,2
+0473,Isreal,Eniola,Isreal Eniola,Male,Art,SS2,2008,2023,Aunt/Uncle,Technician,Daily,08068443284,5
+0474,Oluwaseyi,Ogun,Oluwaseyi Ogun,Female,Commercial,SS2,2009,2022,Aunt/Uncle,Small Business Owner,Weekly,08183555165,6
+0475,Tobi,Odutola,Tobi Odutola,Male,Art,SS2,2009,2022,Aunt/Uncle,Civil Servant,Weekly,08000733109,4
+0476,Oluwaseyi,Ogedegbe,Oluwaseyi Ogedegbe,Female,Science,SS2,2008,2023,Aunt/Uncle,Civil Servant,Bi-Weekly,09016197707,10
+0477,David,Maikori,David Maikori,Male,Commercial,SS1,2010,2021,Aunt/Uncle,Teacher,Weekly,07069016529,4
+0478,Faith,Omodiagbe,Faith Omodiagbe,Female,Art,SS3,2008,2023,Sibling,Small Business Owner,Bi-Weekly,09019675590,6
+0479,Toyibat,Akindele,Toyibat Akindele,Female,Art,SS2,2009,2022,Grandparent,Small Business Owner,Daily,08049892725,8
+0480,Joseph,Ogedegbe,Joseph Ogedegbe,Male,Art,SS2,2008,2023,Sibling,Civil Servant,Bi-Weekly,08050076258,3
+0481,Ayodeji,Chukwumerije,Ayodeji Chukwumerije,Male,Commercial,SS2,2008,2023,Sibling,Small Business Owner,Bi-Weekly,08053289101,1
+0482,Moses,Gwacham,Moses Gwacham,Male,Art,SS2,2008,2023,Sibling,Teacher,Daily,07087527628,3
+0483,Toyibat,Adewusi,Toyibat Adewusi,Female,Commercial,SS2,2009,2022,Parent,Civil Servant,Daily,08034540204,9
+0484,Moses,Akinjo,Moses Akinjo,Male,Commercial,SS3,2008,2023,Grandparent,Technician,Daily,08179039086,5
+0485,Goodness,Olatunji,Goodness Olatunji,Female,Science,SS3,2007,2024,Aunt/Uncle,Small Business Owner,Weekly,07013621910,6
+0486,Comfort,Okoronkwo,Comfort Okoronkwo,Female,Science,SS1,2009,2022,Grandparent,Small Business Owner,Weekly,07049521506,10
+0487,David,Adebutu,David Adebutu,Male,Commercial,SS3,2008,2023,Parent,Civil Servant,Daily,09090368416,5
+0488,Goodness,Umelo,Goodness Umelo,Female,Commercial,SS2,2009,2022,Aunt/Uncle,Small Business Owner,Bi-Weekly,07026108866,7
+0489,Kemi,Olonisakin,Kemi Olonisakin,Female,Science,SS3,2008,2023,Grandparent,Teacher,Daily,08003569691,10
+0490,Babatunde,Ofoedu,Babatunde Ofoedu,Male,Commercial,SS2,2008,2023,Parent,Technician,Weekly,08009292780,3
+0491,Solomon,Ibekwe,Solomon Ibekwe,Male,Art,SS2,2008,2023,Parent,Civil Servant,Bi-Weekly,08131686590,1
+0492,Dara,Akindele,Dara Akindele,Female,Art,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Daily,07045877700,6
+0493,Oreoluwa,Akindele,Oreoluwa Akindele,Female,Art,SS2,2008,2023,Parent,Civil Servant,Daily,08078300417,10
+0494,David,Babayaro,David Babayaro,Male,Science,SS1,2009,2022,Parent,Civil Servant,Bi-Weekly,07079019341,1
+0495,Goodness,Ogedegbe,Goodness Ogedegbe,Female,Art,SS1,2010,2021,Grandparent,Technician,Weekly,09013778462,7
+0496,Deborah,Adeniran,Deborah Adeniran,Female,Commercial,SS1,2009,2022,Parent,Teacher,Weekly,08101421092,6
+0497,Zainab,Olonisakin,Zainab Olonisakin,Female,Science,SS1,2009,2022,Parent,Civil Servant,Daily,07020692733,9
+0498,Adeola,Ogunkoya,Adeola Ogunkoya,Male,Art,SS1,2009,2022,Aunt/Uncle,Teacher,Daily,08100895976,4
+0499,Yusuf,Ogunlana,Yusuf Ogunlana,Male,Science,SS3,2008,2023,Grandparent,Teacher,Bi-Weekly,08199609832,5
+0500,Joseph,Adarabioyo,Joseph Adarabioyo,Male,Commercial,SS2,2009,2022,Aunt/Uncle,Technician,Daily,08109071943,2
+0501,Charity,Oseni,Charity Oseni,Female,Art,SS1,2010,2021,Sibling,Small Business Owner,Bi-Weekly,07060133267,9
+0502,Aminat,Aladefa,Aminat Aladefa,Female,Science,SS2,2008,2023,Grandparent,Teacher,Bi-Weekly,07015351354,8
+0503,Halima,Adefuye,Halima Adefuye,Female,Commercial,SS2,2008,2023,Aunt/Uncle,Technician,Daily,07044642946,6
+0504,Goodness,Ibekwe,Goodness Ibekwe,Female,Commercial,SS3,2008,2023,Sibling,Technician,Bi-Weekly,08050947485,10
+0505,Clinton,Umelo,Clinton Umelo,Male,Art,SS3,2008,2023,Grandparent,Farmer,Rarely,08169561899,3
+0506,Donald,Ukeje,Donald Ukeje,Male,Science,SS2,2009,2022,Grandparent,Civil Servant,Daily,07006391945,2
+0507,Daniel,Ameobi,Daniel Ameobi,Male,Art,SS1,2010,2021,Parent,Civil Servant,Weekly,08109157288,2
+0508,Clinton,Aladefa,Clinton Aladefa,Male,Art,SS3,2007,2024,Grandparent,Small Business Owner,Daily,08039437395,5
+0509,Oluwaseyi,Chukwumerije,Oluwaseyi Chukwumerije,Female,Commercial,SS2,2008,2023,Parent,Teacher,Weekly,07037668095,10
+0510,Kemi,Owoh,Kemi Owoh,Female,Commercial,SS2,2008,2023,Aunt/Uncle,Teacher,Bi-Weekly,08169502157,10
+0511,Abdullahi,Ibekwe,Abdullahi Ibekwe,Male,Commercial,SS2,2009,2022,Sibling,Civil Servant,Bi-Weekly,08067017839,1
+0512,Emmanuel,Adejuyigbe,Emmanuel Adejuyigbe,Male,Art,SS2,2008,2023,Aunt/Uncle,Civil Servant,Daily,08198618376,1
+0513,Yusuf,Akraka,Yusuf Akraka,Male,Commercial,SS1,2009,2022,Grandparent,Engineer,Daily,08104132215,5
+0514,Bukola,Udegbe,Bukola Udegbe,Female,Art,SS2,2008,2023,Sibling,Small Business Owner,Daily,08096301993,10
+0515,Aminat,Akinjo,Aminat Akinjo,Female,Commercial,SS1,2009,2022,Grandparent,Teacher,Bi-Weekly,08121429650,7
+0516,Toyibat,Uwazuruike,Toyibat Uwazuruike,Female,Commercial,SS1,2010,2021,Aunt/Uncle,Teacher,Daily,09018495229,7
+0517,David,Aladesanmi,David Aladesanmi,Male,Art,SS2,2009,2022,Parent,Civil Servant,Weekly,09011451469,4
+0518,Emmanuel,Olusola,Emmanuel Olusola,Male,Commercial,SS3,2007,2024,Sibling,Small Business Owner,Daily,08184493841,4
+0519,Joseph,Odunbaku,Joseph Odunbaku,Male,Art,SS3,2008,2023,Parent,Small Business Owner,Daily,07034503946,5
+0520,David,Adejuyigbe,David Adejuyigbe,Male,Commercial,SS1,2010,2021,Sibling,Civil Servant,Weekly,07067637498,7
+0521,Ibrahim,Idahor,Ibrahim Idahor,Male,Commercial,SS1,2009,2022,Parent,Doctor,Daily,09008453572,2
+0522,Joseph,Aderemi,Joseph Aderemi,Male,Science,SS1,2010,2021,Aunt/Uncle,Civil Servant,Bi-Weekly,08199534067,5
+0523,Oreoluwa,Abagun,Oreoluwa Abagun,Female,Science,SS3,2007,2024,Grandparent,Technician,Bi-Weekly,07085425295,7
+0524,Babatunde,Onwumere,Babatunde Onwumere,Male,Commercial,SS1,2010,2021,Sibling,Civil Servant,Daily,09013428412,1
+0525,Oluchi,Fuwape,Oluchi Fuwape,Female,Art,SS3,2007,2024,Parent,Technician,Weekly,08038193419,7
+0526,Charity,Anjorin,Charity Anjorin,Female,Art,SS1,2009,2022,Sibling,Teacher,Daily,07072956905,9
+0527,Fawaz,Ibekwe,Fawaz Ibekwe,Male,Commercial,SS1,2010,2021,Grandparent,Technician,Daily,08036610776,3
+0528,Fawaz,Shoyinka,Fawaz Shoyinka,Male,Art,SS3,2007,2024,Parent,Small Business Owner,Weekly,07070983325,2
+0529,Dara,Olusola,Dara Olusola,Female,Commercial,SS1,2009,2022,Sibling,Technician,Bi-Weekly,07006473965,9
+0530,Cleopatra,Olujimi,Cleopatra Olujimi,Female,Science,SS1,2010,2021,Parent,Teacher,Bi-Weekly,07001421333,10
+0531,Donald,Akinde,Donald Akinde,Male,Art,SS3,2008,2023,Sibling,Small Business Owner,Weekly,09043114699,5
+0532,Oluchi,Ajudua,Oluchi Ajudua,Female,Art,SS2,2008,2023,Aunt/Uncle,Small Business Owner,Daily,08152470064,6
+0533,Oluchi,Akraka,Oluchi Akraka,Female,Art,SS1,2010,2021,Parent,Small Business Owner,Daily,08098375231,1
+0534,Yusuf,Aladesanmi,Yusuf Aladesanmi,Male,Science,SS2,2009,2022,Parent,Civil Servant,Daily,07003995806,5
+0535,Cleopatra,Adefuye,Cleopatra Adefuye,Female,Commercial,SS3,2007,2024,Aunt/Uncle,Civil Servant,Bi-Weekly,09063355847,6
+0536,Cleopatra,Omagbemi,Cleopatra Omagbemi,Female,Science,SS1,2010,2021,Parent,Small Business Owner,Bi-Weekly,09000294287,10
+0537,Babatunde,Ogunkoya,Babatunde Ogunkoya,Male,Art,SS2,2009,2022,Parent,Small Business Owner,Weekly,07033147665,5
+0538,Daniel,Aladefa,Daniel Aladefa,Male,Science,SS1,2010,2021,Grandparent,Civil Servant,Bi-Weekly,08001227659,4
+0539,Aminat,Fakeye,Aminat Fakeye,Female,Science,SS1,2010,2021,Parent,Civil Servant,Bi-Weekly,07013204614,6
+0540,Clinton,Babayaro,Clinton Babayaro,Male,Commercial,SS3,2007,2024,Grandparent,Technician,Bi-Weekly,09035843783,5
+0541,Boluwatife,Atanda,Boluwatife Atanda,Female,Art,SS2,2008,2023,Parent,Teacher,Weekly,08021072600,9
+0542,Deborah,Ojulari,Deborah Ojulari,Female,Commercial,SS1,2010,2021,Grandparent,Technician,Bi-Weekly,09072523040,7
+0543,Joseph,Akindele,Joseph Akindele,Male,Art,SS3,2008,2023,Aunt/Uncle,Teacher,Weekly,07065116017,2
+0544,Daniel,Fakeye,Daniel Fakeye,Male,Art,SS3,2007,2024,Sibling,Small Business Owner,Daily,08158872214,4
+0545,Deborah,Folayan,Deborah Folayan,Female,Science,SS3,2007,2024,Aunt/Uncle,Technician,Daily,09081563563,6
+0546,Comfort,Osakwe,Comfort Osakwe,Female,Science,SS1,2010,2021,Grandparent,Small Business Owner,Bi-Weekly,08094195611,9
+0547,Oluchi,Odunbaku,Oluchi Odunbaku,Female,Art,SS2,2009,2022,Sibling,Civil Servant,Daily,09068266615,10
+0548,Daniel,Ogedegbe,Daniel Ogedegbe,Male,Science,SS2,2009,2022,Grandparent,Teacher,Bi-Weekly,08115141225,3
+0549,Babatunde,Ogbongbemiga,Babatunde Ogbongbemiga,Male,Commercial,SS3,2008,2023,Sibling,Artisan,Bi-Weekly,09006713967,3
+0550,Cyllia,Madueke,Cyllia Madueke,Female,Commercial,SS1,2009,2022,Sibling,Small Business Owner,Weekly,08182475372,6
+0551,Zainab,Ameobi,Zainab Ameobi,Female,Commercial,SS1,2009,2022,Sibling,Civil Servant,Daily,09052787350,6
+0552,Tunde,Abdullahi,Tunde Abdullahi,Male,Art,SS3,2008,2023,Grandparent,Teacher,Weekly,08018313956,4
+0553,Boluwatife,Kolade,Boluwatife Kolade,Female,Commercial,SS2,2008,2023,Sibling,Small Business Owner,Weekly,09043668847,6
+0554,Oluchi,Osakwe,Oluchi Osakwe,Female,Science,SS2,2008,2023,Grandparent,Technician,Weekly,09022749647,9
+0555,Isreal,Oyeleye,Isreal Oyeleye,Male,Science,SS2,2009,2022,Sibling,Technician,Daily,09061583811,4
+0556,Tunde,Adebutu,Tunde Adebutu,Male,Art,SS3,2008,2023,Sibling,Teacher,Bi-Weekly,08056551538,1
+0557,Zainab,Idonije,Zainab Idonije,Female,Science,SS1,2009,2022,Parent,Small Business Owner,Bi-Weekly,08003051461,10
+0558,Samson,Odita,Samson Odita,Male,Commercial,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Weekly,07099160552,2
+0559,Oreoluwa,Abaribe,Oreoluwa Abaribe,Female,Art,SS2,2009,2022,Aunt/Uncle,Trader,Rarely,08046463799,7
+0560,Moses,Ajudua,Moses Ajudua,Male,Art,SS3,2008,2023,Grandparent,Civil Servant,Weekly,07054614928,5
+0561,Halima,Rasaki,Halima Rasaki,Female,Commercial,SS2,2009,2022,Sibling,Teacher,Daily,07032730590,7
+0562,Solomon,Durosinmi,Solomon Durosinmi,Male,Commercial,SS3,2007,2024,Parent,Small Business Owner,Daily,07010226085,3
+0563,Samson,Atanda,Samson Atanda,Male,Science,SS2,2008,2023,Parent,Teacher,Bi-Weekly,08194811591,5
+0564,Emmanuel,Oteh,Emmanuel Oteh,Male,Art,SS1,2010,2021,Aunt/Uncle,Civil Servant,Weekly,08102949495,2
+0565,Oluchi,Adedeji,Oluchi Adedeji,Female,Commercial,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Weekly,07004237641,7
+0566,Musa,Buraimoh,Musa Buraimoh,Male,Art,SS2,2008,2023,Grandparent,Technician,Daily,07058770465,3
+0567,Bukola,Akpabio,Bukola Akpabio,Female,Science,SS2,2009,2022,Parent,Small Business Owner,Daily,08073791889,9
+0568,Boluwatife,Akraka,Boluwatife Akraka,Female,Art,SS1,2009,2022,Aunt/Uncle,Technician,Daily,08056687554,6
+0569,Goodness,Anjorin,Goodness Anjorin,Female,Art,SS1,2010,2021,Parent,Teacher,Bi-Weekly,07079207649,9
+0570,Abdullahi,Alagbe,Abdullahi Alagbe,Male,Art,SS1,2010,2021,Parent,Civil Servant,Bi-Weekly,08118840699,5
+0571,Cyllia,Ogunkoya,Cyllia Ogunkoya,Female,Commercial,SS3,2007,2024,Aunt/Uncle,Civil Servant,Weekly,08095419916,10
+0572,Tobi,Abdullahi,Tobi Abdullahi,Male,Art,SS3,2007,2024,Sibling,Teacher,Bi-Weekly,09030000438,3
+0573,Michael,Aderemi,Michael Aderemi,Male,Commercial,SS2,2008,2023,Aunt/Uncle,Technician,Weekly,09090792737,1
+0574,Oreoluwa,Monye,Oreoluwa Monye,Female,Art,SS3,2007,2024,Sibling,Technician,Bi-Weekly,07081092342,8
+0575,Bukola,Okoronkwo,Bukola Okoronkwo,Female,Science,SS2,2008,2023,Parent,Teacher,Daily,07089166626,6
+0576,Divine,Aliyu,Divine Aliyu,Male,Science,SS1,2009,2022,Aunt/Uncle,Civil Servant,Bi-Weekly,07018633143,5
+0577,Aminat,Imeh,Aminat Imeh,Female,Science,SS1,2009,2022,Aunt/Uncle,Teacher,Bi-Weekly,09025386892,8
+0578,Comfort,Akinkugbe,Comfort Akinkugbe,Female,Commercial,SS2,2008,2023,Sibling,Technician,Daily,07034433333,7
+0579,Oreoluwa,Adewumi,Oreoluwa Adewumi,Female,Commercial,SS1,2009,2022,Sibling,Civil Servant,Bi-Weekly,08114366594,9
+0580,Femi,Chukwumerije,Femi Chukwumerije,Male,Science,SS3,2008,2023,Grandparent,Civil Servant,Daily,08004130296,3
+0581,Moses,Chukwumerije,Moses Chukwumerije,Male,Science,SS2,2009,2022,Grandparent,Technician,Daily,08024136624,2
+0582,Zainab,Ubosi,Zainab Ubosi,Female,Commercial,SS2,2009,2022,Grandparent,Technician,Daily,08049800331,6
+0583,Fawaz,Fakeye,Fawaz Fakeye,Male,Commercial,SS1,2010,2021,Grandparent,Civil Servant,Bi-Weekly,08185793118,3
+0584,Femi,Udechukwu,Femi Udechukwu,Male,Art,SS2,2009,2022,Grandparent,Technician,Daily,07019591939,6
+0585,Halima,Akinde,Halima Akinde,Female,Art,SS2,2009,2022,Sibling,Teacher,Bi-Weekly,09060347145,10
+0586,David,Fatai,David Fatai,Male,Art,SS1,2009,2022,Grandparent,Civil Servant,Daily,09002129889,3
+0587,Cyllia,Ogbodo,Cyllia Ogbodo,Female,Science,SS2,2008,2023,Grandparent,Small Business Owner,Weekly,08026266815,9
+0588,Moses,Onyegbule,Moses Onyegbule,Male,Art,SS3,2007,2024,Sibling,Small Business Owner,Weekly,09014999781,3
+0589,Fawaz,Aladesanmi,Fawaz Aladesanmi,Male,Commercial,SS1,2010,2021,Parent,Artisan,Weekly,08187459090,3
+0590,Goodness,Ojulari,Goodness Ojulari,Female,Commercial,SS3,2007,2024,Sibling,Small Business Owner,Daily,08114373541,10
+0591,Deborah,Idiata,Deborah Idiata,Female,Commercial,SS2,2008,2023,Sibling,Teacher,Bi-Weekly,08188237824,8
+0592,Babatunde,Osakwe,Babatunde Osakwe,Male,Art,SS3,2008,2023,Grandparent,Technician,Daily,09092196802,1
+0593,Ridwan,Olatunji,Ridwan Olatunji,Male,Science,SS3,2007,2024,Grandparent,Technician,Weekly,07069749440,5
+0594,Aminat,Okoronkwo,Aminat Okoronkwo,Female,Science,SS1,2010,2021,Grandparent,Technician,Daily,07001149609,6
+0595,Oreoluwa,Idiata,Oreoluwa Idiata,Female,Commercial,SS2,2008,2023,Sibling,Teacher,Weekly,08051597187,6
+0596,Deborah,Udebuluzor,Deborah Udebuluzor,Female,Science,SS3,2007,2024,Parent,Teacher,Daily,08095555962,8
+0597,Moses,Adekugbe,Moses Adekugbe,Male,Commercial,SS3,2007,2024,Parent,Teacher,Weekly,07071848946,4
+0598,Toyibat,Ajudua,Toyibat Ajudua,Female,Science,SS2,2009,2022,Grandparent,Small Business Owner,Weekly,08012912529,6
+0599,Faith,Okposo,Faith Okposo,Female,Art,SS3,2008,2023,Aunt/Uncle,Civil Servant,Weekly,08168342834,9
+0600,Bukola,Orban,Bukola Orban,Female,Art,SS3,2008,2023,Grandparent,Small Business Owner,Weekly,08181472536,10
+0601,Comfort,Okposo,Comfort Okposo,Female,Art,SS3,2007,2024,Aunt/Uncle,Technician,Weekly,08198902176,8
+0602,Daniel,Atanda,Daniel Atanda,Male,Science,SS2,2009,2022,Parent,Small Business Owner,Bi-Weekly,07098042591,5
+0603,Ridwan,Uloko,Ridwan Uloko,Male,Commercial,SS1,2010,2021,Parent,Civil Servant,Weekly,08095630793,4
+0604,Femi,Yesufu,Femi Yesufu,Male,Art,SS2,2008,2023,Aunt/Uncle,Technician,Bi-Weekly,08156484420,1
+0605,Abdullahi,Onyema,Abdullahi Onyema,Male,Commercial,SS3,2007,2024,Sibling,Technician,Weekly,08142681782,10
+0606,Boluwatife,Fakeye,Boluwatife Fakeye,Female,Science,SS1,2009,2022,Sibling,Civil Servant,Weekly,08034353181,7
+0607,Comfort,Adekugbe,Comfort Adekugbe,Female,Art,SS2,2009,2022,Aunt/Uncle,Small Business Owner,Weekly,08020024288,9
+0608,Daniel,Eniola,Daniel Eniola,Male,Science,SS2,2009,2022,Aunt/Uncle,Technician,Bi-Weekly,08156852434,1
+0609,Cyllia,Udechukwu,Cyllia Udechukwu,Female,Commercial,SS2,2008,2023,Grandparent,Civil Servant,Weekly,09013968787,7
+0610,Zainab,Deniran,Zainab Deniran,Female,Art,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Bi-Weekly,07013045897,7
+0611,Tobi,Udegbe,Tobi Udegbe,Male,Commercial,SS3,2007,2024,Grandparent,Small Business Owner,Weekly,08146291640,5
+0612,Fatima,Idahor,Fatima Idahor,Female,Art,SS1,2010,2021,Sibling,Small Business Owner,Weekly,08009324671,6
+0613,Boluwatife,Udoka,Boluwatife Udoka,Female,Art,SS3,2007,2024,Parent,Doctor,Daily,08180502527,9
+0614,Ridwan,Udebuluzor,Ridwan Udebuluzor,Male,Science,SS1,2009,2022,Grandparent,Small Business Owner,Bi-Weekly,08197490629,4
+0615,Fawaz,Oteh,Fawaz Oteh,Male,Art,SS3,2008,2023,Grandparent,Lecturer,Daily,08013085738,4
+0616,Yusuf,Okongwu,Yusuf Okongwu,Male,Commercial,SS1,2010,2021,Aunt/Uncle,Teacher,Daily,08123560604,2
+0617,Abdullahi,Onwumere,Abdullahi Onwumere,Male,Commercial,SS3,2008,2023,Sibling,Civil Servant,Bi-Weekly,08098956979,4
+0618,Oreoluwa,Ihemeje,Oreoluwa Ihemeje,Female,Commercial,SS2,2008,2023,Aunt/Uncle,Civil Servant,Weekly,09058311498,9
+0619,Isreal,Monye,Isreal Monye,Male,Science,SS2,2008,2023,Aunt/Uncle,Small Business Owner,Daily,08124206362,3
+0620,Boluwatife,Gwarzo,Boluwatife Gwarzo,Female,Commercial,SS1,2010,2021,Aunt/Uncle,Small Business Owner,Weekly,07019133351,8
+0621,Isreal,Adefuye,Isreal Adefuye,Male,Commercial,SS2,2009,2022,Grandparent,Small Business Owner,Daily,07071741615,1
+0622,Clinton,Chukwumerije,Clinton Chukwumerije,Male,Science,SS3,2008,2023,Aunt/Uncle,Technician,Daily,07024676849,3
+0623,Isreal,Buraimoh,Isreal Buraimoh,Male,Science,SS2,2009,2022,Parent,Unemployed,Bi-Weekly,09031643788,5
+0624,Comfort,Omagbemi,Comfort Omagbemi,Female,Science,SS1,2009,2022,Sibling,Technician,Daily,08107200155,4
+0625,Babatunde,Oteh,Babatunde Oteh,Male,Commercial,SS1,2009,2022,Sibling,Technician,Weekly,08160605275,5
+0626,Fatima,Makinde,Fatima Makinde,Female,Art,SS2,2008,2023,Parent,Small Business Owner,Weekly,09055701876,7
+0627,Kemi,Adedeji,Kemi Adedeji,Female,Science,SS3,2007,2024,Sibling,Civil Servant,Daily,08123911779,10
+0628,Michael,Ogunlana,Michael Ogunlana,Male,Art,SS3,2007,2024,Sibling,Technician,Weekly,08000176984,4
+0629,Deborah,Buraimoh,Deborah Buraimoh,Female,Art,SS3,2007,2024,Grandparent,Technician,Bi-Weekly,07041539186,10
+0630,Goodness,Olusola,Goodness Olusola,Female,Commercial,SS3,2007,2024,Grandparent,Unemployed,Rarely,07099327266,7
+0631,Donald,Oliha,Donald Oliha,Male,Art,SS2,2009,2022,Grandparent,Teacher,Weekly,08182189838,3
+0632,Boluwatife,Babayaro,Boluwatife Babayaro,Female,Commercial,SS2,2009,2022,Parent,Civil Servant,Bi-Weekly,09022409252,7
+0633,Zainab,Ogbodo,Zainab Ogbodo,Female,Science,SS3,2007,2024,Aunt/Uncle,Teacher,Daily,08155718109,10
+0634,Donald,Ogbodo,Donald Ogbodo,Male,Art,SS2,2008,2023,Sibling,Technician,Weekly,08057203074,1
+0635,Comfort,Adeniran,Comfort Adeniran,Female,Science,SS2,2008,2023,Aunt/Uncle,Civil Servant,Weekly,08076216453,8
+0636,Toyibat,Idahor,Toyibat Idahor,Female,Art,SS2,2009,2022,Grandparent,Civil Servant,Weekly,08171576205,10
+0637,Daniel,Kolade,Daniel Kolade,Male,Science,SS3,2007,2024,Parent,Civil Servant,Daily,09010035800,5
+0638,Ridwan,Fatai,Ridwan Fatai,Male,Art,SS2,2009,2022,Grandparent,Civil Servant,Daily,08095728038,2
+0639,Oluwaseyi,Fuwape,Oluwaseyi Fuwape,Female,Commercial,SS1,2010,2021,Aunt/Uncle,Civil Servant,Daily,08029800853,7
+0640,Deborah,Aladefa,Deborah Aladefa,Female,Commercial,SS2,2009,2022,Parent,Technician,Bi-Weekly,09070753723,8
+0641,Dara,Ogbu,Dara Ogbu,Female,Commercial,SS3,2007,2024,Grandparent,Teacher,Bi-Weekly,09065709666,7
+0642,Musa,Ogunkoya,Musa Ogunkoya,Male,Commercial,SS1,2010,2021,Parent,Technician,Daily,08166387011,3
+0643,Bukola,Akindele,Bukola Akindele,Female,Science,SS3,2008,2023,Parent,Teacher,Bi-Weekly,09003948678,5
+0644,Tobi,Adarabioyo,Tobi Adarabioyo,Male,Art,SS1,2010,2021,Sibling,Technician,Daily,08095482266,3
+0645,Boluwatife,Aderemi,Boluwatife Aderemi,Female,Science,SS2,2009,2022,Aunt/Uncle,Small Business Owner,Daily,07046157030,7
+0646,Daniel,Idiata,Daniel Idiata,Male,Science,SS2,2008,2023,Parent,Engineer,Daily,07076901302,5
+0647,Tobi,Ogunlana,Tobi Ogunlana,Male,Commercial,SS1,2010,2021,Grandparent,Technician,Weekly,09096086986,2
+0648,Zainab,Olusola,Zainab Olusola,Female,Science,SS3,2007,2024,Grandparent,Technician,Daily,07015758417,7
+0649,Goodness,Adesokan,Goodness Adesokan,Female,Commercial,SS2,2009,2022,Parent,Farmer,Weekly,07097845346,8
+0650,Dara,Uloko,Dara Uloko,Female,Science,SS1,2009,2022,Sibling,Teacher,Bi-Weekly,08157326411,6
+0651,Babatunde,Ayanbadejo,Babatunde Ayanbadejo,Male,Commercial,SS3,2008,2023,Sibling,Technician,Weekly,08111690567,1
+0652,Donald,Onyegbule,Donald Onyegbule,Male,Science,SS1,2010,2021,Parent,Small Business Owner,Bi-Weekly,07053100923,5
+0653,Musa,Balarabe,Musa Balarabe,Male,Commercial,SS3,2008,2023,Parent,Teacher,Daily,08103695581,1
+0654,Charity,Anyiam,Charity Anyiam,Female,Art,SS2,2008,2023,Aunt/Uncle,Civil Servant,Bi-Weekly,08072214225,7
+0655,Charity,Ogbu,Charity Ogbu,Female,Science,SS3,2008,2023,Parent,Technician,Bi-Weekly,09000966003,9
+0656,Fatima,Bamigboye,Fatima Bamigboye,Female,Commercial,SS3,2008,2023,Grandparent,Teacher,Weekly,07090606978,9
+0657,Daniel,Onyegbule,Daniel Onyegbule,Male,Art,SS1,2010,2021,Sibling,Civil Servant,Daily,07029467016,5
+0658,Yusuf,Udoka,Yusuf Udoka,Male,Commercial,SS2,2009,2022,Aunt/Uncle,Small Business Owner,Daily,07016816316,1
+0659,Charity,Okongwu,Charity Okongwu,Female,Commercial,SS1,2009,2022,Parent,Small Business Owner,Daily,09026574187,7
+0660,Tobi,Abdullahi,Tobi Abdullahi,Male,Commercial,SS3,2008,2023,Parent,Small Business Owner,Daily,07025612395,5
+0661,Oluchi,Olonisakin,Oluchi Olonisakin,Female,Commercial,SS1,2009,2022,Sibling,Teacher,Weekly,08168800251,8
+0662,Halima,Maikori,Halima Maikori,Female,Art,SS1,2010,2021,Aunt/Uncle,Civil Servant,Bi-Weekly,08043032180,10
+0663,Charity,Oyeleye,Charity Oyeleye,Female,Art,SS1,2009,2022,Grandparent,Teacher,Daily,08005816543,9
+0664,Daniel,Onyeka,Daniel Onyeka,Male,Art,SS1,2010,2021,Aunt/Uncle,Technician,Bi-Weekly,08146896630,4
+0665,Daniel,Adetiba,Daniel Adetiba,Male,Art,SS1,2010,2021,Grandparent,Small Business Owner,Bi-Weekly,08173772820,4
+0666,Cleopatra,Adedeji,Cleopatra Adedeji,Female,Commercial,SS2,2008,2023,Sibling,Small Business Owner,Weekly,08100498722,8
+0667,Cyllia,Otedola,Cyllia Otedola,Female,Commercial,SS3,2007,2024,Parent,Technician,Weekly,09007048638,7
+0668,Goodness,Abagun,Goodness Abagun,Female,Commercial,SS2,2009,2022,Grandparent,Technician,Weekly,09053766984,2
+0669,Abdullahi,Adekugbe,Abdullahi Adekugbe,Male,Art,SS2,2009,2022,Parent,Teacher,Weekly,09089727555,1
+0670,Yusuf,Ogedegbe,Yusuf Ogedegbe,Male,Commercial,SS2,2008,2023,Sibling,Civil Servant,Daily,08159166330,1
+0671,Donald,Aderemi,Donald Aderemi,Male,Science,SS2,2008,2023,Grandparent,Small Business Owner,Bi-Weekly,09086891525,3
+0672,Boluwatife,Abagun,Boluwatife Abagun,Female,Science,SS3,2008,2023,Aunt/Uncle,Small Business Owner,Daily,09095811611,7
+0673,Cyllia,Fatai,Cyllia Fatai,Female,Science,SS2,2009,2022,Grandparent,Civil Servant,Bi-Weekly,08165940170,10
+0674,Zainab,Rasaki,Zainab Rasaki,Female,Commercial,SS1,2010,2021,Parent,Civil Servant,Weekly,08073531007,10
+0675,Aminat,Deniran,Aminat Deniran,Female,Science,SS3,2007,2024,Sibling,Teacher,Bi-Weekly,09067759150,8
+0676,Toyibat,Sofoluwe,Toyibat Sofoluwe,Female,Art,SS3,2008,2023,Sibling,Teacher,Bi-Weekly,08040956923,7
+0677,Dara,Agbetu,Dara Agbetu,Female,Commercial,SS2,2008,2023,Parent,Small Business Owner,Daily,07099920799,9
+0678,Fawaz,Ogbongbemiga,Fawaz Ogbongbemiga,Male,Art,SS3,2008,2023,Parent,Technician,Weekly,08110083423,5
+0679,Abdullahi,Abaribe,Abdullahi Abaribe,Male,Art,SS1,2010,2021,Grandparent,Civil Servant,Daily,09051968526,1
+0680,Kemi,Olukoya,Kemi Olukoya,Female,Art,SS3,2008,2023,Grandparent,Technician,Weekly,07025409570,9
+0681,Aminat,Omagbemi,Aminat Omagbemi,Female,Art,SS2,2009,2022,Parent,Doctor,Daily,08097734381,7
+0682,Michael,Monye,Michael Monye,Male,Science,SS1,2009,2022,Parent,Technician,Daily,07082869094,3
+0683,Solomon,Akinjo,Solomon Akinjo,Male,Commercial,SS1,2010,2021,Parent,Teacher,Daily,08095866768,2
+0684,Fawaz,Akraka,Fawaz Akraka,Male,Commercial,SS3,2008,2023,Aunt/Uncle,Technician,Daily,09000254189,4
+0685,Zainab,Orban,Zainab Orban,Female,Science,SS1,2010,2021,Grandparent,Civil Servant,Daily,09093435275,10
+0686,Dara,Anyiam,Dara Anyiam,Female,Art,SS3,2007,2024,Aunt/Uncle,Civil Servant,Weekly,08196106403,9
+0687,Goodness,Ogbongbemiga,Goodness Ogbongbemiga,Female,Science,SS2,2009,2022,Parent,Teacher,Weekly,08010169530,10
+0688,Isreal,Adeniran,Isreal Adeniran,Male,Art,SS3,2008,2023,Parent,Banker,Daily,09060019208,5
+0689,Tunde,Abaribe,Tunde Abaribe,Male,Art,SS1,2010,2021,Sibling,Civil Servant,Daily,08145038140,2
+0690,Goodness,Oyeleye,Goodness Oyeleye,Female,Art,SS1,2010,2021,Parent,Teacher,Bi-Weekly,08056919551,7
+0691,Musa,Ayorinde,Musa Ayorinde,Male,Art,SS2,2008,2023,Sibling,Civil Servant,Daily,09004714794,3
+0692,Adeola,Onayemi,Adeola Onayemi,Male,Commercial,SS3,2008,2023,Parent,Small Business Owner,Bi-Weekly,07033418191,1
+0693,Oreoluwa,Odita,Oreoluwa Odita,Female,Commercial,SS2,2009,2022,Parent,Farmer,Weekly,07096353960,8
+0694,David,Adedeji,David Adedeji,Male,Science,SS1,2009,2022,Aunt/Uncle,Technician,Daily,07087697582,2
+0695,Dara,Ujah,Dara Ujah,Female,Commercial,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Weekly,07081182845,8
+0696,Aminat,Ogbodo,Aminat Ogbodo,Female,Art,SS1,2009,2022,Grandparent,Civil Servant,Weekly,08155794808,9
+0697,Oreoluwa,Udebuluzor,Oreoluwa Udebuluzor,Female,Art,SS3,2007,2024,Parent,Small Business Owner,Weekly,08150218213,7
+0698,Divine,Babayaro,Divine Babayaro,Male,Science,SS1,2009,2022,Sibling,Technician,Weekly,07097991827,8
+0699,Oluchi,Folayan,Oluchi Folayan,Female,Art,SS3,2007,2024,Sibling,Teacher,Weekly,07050302844,9
+0700,Isreal,Akinde,Isreal Akinde,Male,Science,SS3,2008,2023,Parent,Technician,Weekly,07037375433,3
+0701,Tunde,Adetiba,Tunde Adetiba,Male,Science,SS1,2010,2021,Sibling,Teacher,Weekly,08038959692,1
+0702,Tobi,Omodiagbe,Tobi Omodiagbe,Male,Art,SS1,2010,2021,Aunt/Uncle,Technician,Bi-Weekly,08141959803,1
+0703,Ridwan,Omolade,Ridwan Omolade,Male,Commercial,SS1,2009,2022,Grandparent,Civil Servant,Weekly,08110732340,3
+0704,Charity,Shoyinka,Charity Shoyinka,Female,Art,SS1,2010,2021,Aunt/Uncle,Teacher,Bi-Weekly,08101606395,6
+0705,Ibrahim,Osakwe,Ibrahim Osakwe,Male,Commercial,SS2,2008,2023,Aunt/Uncle,Small Business Owner,Bi-Weekly,07083578215,1
+0706,Deborah,Anjorin,Deborah Anjorin,Female,Art,SS2,2009,2022,Parent,Technician,Bi-Weekly,08186468753,6
+0707,Joseph,Akinkugbe,Joseph Akinkugbe,Male,Science,SS2,2009,2022,Sibling,Small Business Owner,Daily,08153181290,1
+0708,Fawaz,Ogedegbe,Fawaz Ogedegbe,Male,Science,SS3,2008,2023,Sibling,Teacher,Bi-Weekly,07004628724,4
+0709,Ayodeji,Ogunsola,Ayodeji Ogunsola,Male,Science,SS1,2010,2021,Aunt/Uncle,Civil Servant,Weekly,08098691664,10
+0710,Comfort,Ofoedu,Comfort Ofoedu,Female,Science,SS3,2008,2023,Sibling,Technician,Daily,09030530128,10
+0711,David,Owoh,David Owoh,Male,Art,SS3,2008,2023,Aunt/Uncle,Teacher,Weekly,09030732893,1
+0712,Fawaz,Makinde,Fawaz Makinde,Male,Art,SS1,2009,2022,Sibling,Technician,Bi-Weekly,07014384881,1
+0713,Bukola,Uwazuruike,Bukola Uwazuruike,Female,Science,SS3,2007,2024,Grandparent,Civil Servant,Weekly,09000087448,6
+0714,Femi,Akindele,Femi Akindele,Male,Commercial,SS2,2008,2023,Sibling,Civil Servant,Daily,08101099897,3
+0715,Emmanuel,Ukeje,Emmanuel Ukeje,Male,Commercial,SS2,2008,2023,Aunt/Uncle,Small Business Owner,Weekly,07092607634,1
+0716,Ridwan,Adesokan,Ridwan Adesokan,Male,Art,SS3,2007,2024,Aunt/Uncle,Teacher,Weekly,08009066312,8
+0717,Michael,Buraimoh,Michael Buraimoh,Male,Commercial,SS3,2007,2024,Aunt/Uncle,Technician,Bi-Weekly,07098830094,2
+0718,Ridwan,Uloko,Ridwan Uloko,Male,Science,SS3,2007,2024,Parent,Civil Servant,Weekly,07005746953,2
+0719,Kemi,Onyegbule,Kemi Onyegbule,Female,Art,SS1,2009,2022,Aunt/Uncle,Civil Servant,Weekly,08164621434,9
+0720,Isreal,Ogunsola,Isreal Ogunsola,Male,Commercial,SS3,2008,2023,Grandparent,Small Business Owner,Daily,07096757299,1
+0721,Tobi,Abdullahi,Tobi Abdullahi,Male,Science,SS1,2009,2022,Aunt/Uncle,Civil Servant,Daily,08116197566,2
+0722,Charity,Makinde,Charity Makinde,Female,Art,SS3,2008,2023,Parent,Lecturer,Daily,08086892204,9
+0723,Babatunde,Ogbongbemiga,Babatunde Ogbongbemiga,Male,Science,SS2,2008,2023,Parent,Small Business Owner,Weekly,08027540320,5
+0724,Oluwaseyi,Okongwu,Oluwaseyi Okongwu,Female,Art,SS2,2008,2023,Parent,Teacher,Weekly,09025384315,9
+0725,Fatima,Balarabe,Fatima Balarabe,Female,Science,SS1,2010,2021,Grandparent,Small Business Owner,Daily,07084759722,7
+0726,Yusuf,Uloko,Yusuf Uloko,Male,Art,SS3,2007,2024,Sibling,Small Business Owner,Weekly,08171390339,3
+0727,Oluwaseyi,Ogunsola,Oluwaseyi Ogunsola,Female,Science,SS3,2007,2024,Grandparent,Farmer,Rarely,08080597281,10
+0728,Deborah,Osazuwa,Deborah Osazuwa,Female,Commercial,SS3,2008,2023,Sibling,Civil Servant,Bi-Weekly,07038427512,7
+0729,Adeola,Babayaro,Adeola Babayaro,Male,Commercial,SS3,2007,2024,Grandparent,Teacher,Bi-Weekly,08108246623,2
+0730,Divine,Olunloyo,Divine Olunloyo,Male,Commercial,SS1,2010,2021,Aunt/Uncle,Technician,Daily,09075583480,3
+0731,Toyibat,Yesufu,Toyibat Yesufu,Female,Art,SS3,2008,2023,Aunt/Uncle,Teacher,Daily,07095789307,6
+0732,Adeola,Fuwape,Adeola Fuwape,Male,Commercial,SS1,2010,2021,Sibling,Teacher,Weekly,09098825698,4
+0733,Daniel,Idiata,Daniel Idiata,Male,Science,SS2,2008,2023,Sibling,Small Business Owner,Bi-Weekly,07045690738,2
+0734,Cleopatra,Abaribe,Cleopatra Abaribe,Female,Science,SS2,2008,2023,Grandparent,Teacher,Bi-Weekly,07090379485,10
+0735,Zainab,Alagbe,Zainab Alagbe,Female,Science,SS2,2008,2023,Parent,Farmer,Weekly,07054139493,7
+0736,Dara,Ogunoye,Dara Ogunoye,Female,Art,SS2,2008,2023,Parent,Engineer,Daily,08040005890,6
+0737,Comfort,Enyinnaya,Comfort Enyinnaya,Female,Art,SS2,2009,2022,Aunt/Uncle,Teacher,Bi-Weekly,08070704758,6
+0738,Oluwaseyi,Uloko,Oluwaseyi Uloko,Female,Commercial,SS2,2008,2023,Grandparent,Civil Servant,Bi-Weekly,07002118703,6
+0739,Yusuf,Udebuluzor,Yusuf Udebuluzor,Male,Art,SS2,2009,2022,Parent,Teacher,Bi-Weekly,07081301490,4
+0740,Musa,Buraimoh,Musa Buraimoh,Male,Commercial,SS2,2008,2023,Sibling,Technician,Bi-Weekly,08051077850,4
+0741,Cyllia,Aremu,Cyllia Aremu,Female,Art,SS1,2010,2021,Sibling,Civil Servant,Bi-Weekly,08125998244,9
+0742,Charity,Ujah,Charity Ujah,Female,Commercial,SS3,2007,2024,Sibling,Small Business Owner,Weekly,07083355602,10
+0743,Adeola,Okoronkwo,Adeola Okoronkwo,Male,Science,SS3,2007,2024,Sibling,Technician,Weekly,07040234983,1
+0744,David,Uloko,David Uloko,Male,Art,SS1,2009,2022,Sibling,Small Business Owner,Daily,08169703410,5
+0745,Divine,Adefuye,Divine Adefuye,Male,Art,SS1,2010,2021,Aunt/Uncle,Civil Servant,Daily,08019798067,4
+0746,Isreal,Kolade,Isreal Kolade,Male,Science,SS1,2010,2021,Sibling,Farmer,Rarely,07082575161,3
+0747,Isreal,Odutola,Isreal Odutola,Male,Commercial,SS3,2008,2023,Sibling,Teacher,Weekly,08106420950,1
+0748,Halima,Adefuye,Halima Adefuye,Female,Science,SS3,2007,2024,Sibling,Teacher,Bi-Weekly,07055433297,6
+0749,Zainab,Olukoya,Zainab Olukoya,Female,Art,SS3,2007,2024,Sibling,Civil Servant,Weekly,09060424313,6
+0750,Samson,Babayaro,Samson Babayaro,Male,Commercial,SS2,2008,2023,Sibling,Teacher,Weekly,09043943243,4
+0751,Oreoluwa,Oteh,Oreoluwa Oteh,Female,Science,SS3,2007,2024,Grandparent,Civil Servant,Bi-Weekly,07097610249,9
+0752,Comfort,Bakare,Comfort Bakare,Female,Commercial,SS1,2010,2021,Sibling,Civil Servant,Bi-Weekly,07042803993,7
+0753,Oreoluwa,Aliyu,Oreoluwa Aliyu,Female,Science,SS3,2008,2023,Aunt/Uncle,Civil Servant,Daily,08126486344,10
+0754,Tunde,Adefope,Tunde Adefope,Male,Art,SS2,2009,2022,Sibling,Technician,Weekly,08125786203,3
+0755,Goodness,Onoja,Goodness Onoja,Female,Science,SS2,2009,2022,Sibling,Teacher,Weekly,08108050625,6
+0756,Adeola,Sofoluwe,Adeola Sofoluwe,Male,Science,SS1,2010,2021,Aunt/Uncle,Small Business Owner,Daily,08180397982,4
+0757,Joseph,Udebuluzor,Joseph Udebuluzor,Male,Science,SS2,2009,2022,Sibling,Civil Servant,Bi-Weekly,09026010747,4
+0758,Toyibat,Omagbemi,Toyibat Omagbemi,Female,Science,SS3,2007,2024,Parent,Small Business Owner,Weekly,07056174604,10
+0759,Zainab,Ayanbadejo,Zainab Ayanbadejo,Female,Commercial,SS3,2007,2024,Sibling,Technician,Daily,09014084519,9
+0760,Zainab,Adekugbe,Zainab Adekugbe,Female,Commercial,SS3,2007,2024,Sibling,Civil Servant,Bi-Weekly,09090073467,7
+0761,Adeola,Ogunsola,Adeola Ogunsola,Male,Science,SS2,2009,2022,Sibling,Small Business Owner,Bi-Weekly,09090982298,2
+0762,Boluwatife,Adeniran,Boluwatife Adeniran,Female,Science,SS2,2009,2022,Parent,Technician,Weekly,07010178164,8
+0763,Bukola,Sofoluwe,Bukola Sofoluwe,Female,Commercial,SS1,2009,2022,Parent,Civil Servant,Daily,09046379488,7
+0764,Daniel,Ofoedu,Daniel Ofoedu,Male,Commercial,SS3,2007,2024,Grandparent,Civil Servant,Weekly,09098950853,3
+0765,Oluwaseyi,Owoh,Oluwaseyi Owoh,Female,Art,SS3,2008,2023,Parent,Doctor,Daily,08197370480,9
+0766,Samson,Onwumere,Samson Onwumere,Male,Art,SS2,2008,2023,Sibling,Civil Servant,Weekly,08172460677,4
+0767,Adeola,Akindele,Adeola Akindele,Male,Commercial,SS2,2008,2023,Sibling,Teacher,Weekly,07033709330,5
+0768,Tobi,Udebuluzor,Tobi Udebuluzor,Male,Art,SS2,2009,2022,Grandparent,Banker,Daily,08080871005,5
+0769,Oluchi,Akindele,Oluchi Akindele,Female,Science,SS3,2007,2024,Parent,Civil Servant,Daily,08101025729,10
+0770,Samson,Udebuluzor,Samson Udebuluzor,Male,Science,SS3,2007,2024,Parent,Teacher,Daily,07011401865,3
+0771,Adeola,Adeniran,Adeola Adeniran,Male,Science,SS1,2010,2021,Sibling,Civil Servant,Bi-Weekly,09085530487,4
+0772,Joseph,Adekugbe,Joseph Adekugbe,Male,Art,SS1,2010,2021,Sibling,Civil Servant,Weekly,07008517881,3
+0773,Isreal,Abagun,Isreal Abagun,Male,Art,SS1,2010,2021,Grandparent,Lawyer,Daily,09012426616,2
+0774,Faith,Udegbe,Faith Udegbe,Female,Art,SS1,2010,2021,Aunt/Uncle,Civil Servant,Bi-Weekly,09081645065,6
+0775,Boluwatife,Odita,Boluwatife Odita,Female,Commercial,SS2,2008,2023,Sibling,Civil Servant,Daily,09014570034,10
+0776,Comfort,Ayanbadejo,Comfort Ayanbadejo,Female,Science,SS1,2010,2021,Parent,Civil Servant,Bi-Weekly,08166744085,10
+0777,Goodness,Enyinnaya,Goodness Enyinnaya,Female,Art,SS2,2008,2023,Parent,Small Business Owner,Weekly,09047173990,10
+0778,Charity,Olusola,Charity Olusola,Female,Art,SS1,2010,2021,Grandparent,Civil Servant,Weekly,09022632726,8
+0779,Oreoluwa,Olatunji,Oreoluwa Olatunji,Female,Commercial,SS1,2009,2022,Sibling,Small Business Owner,Bi-Weekly,08170982230,8
+0780,Oluwaseyi,Okojie,Oluwaseyi Okojie,Female,Commercial,SS1,2009,2022,Parent,Small Business Owner,Weekly,09030304467,4
+0781,Abdullahi,Adefuye,Abdullahi Adefuye,Male,Art,SS3,2008,2023,Grandparent,Small Business Owner,Bi-Weekly,08132846594,2
+0782,Boluwatife,Oyeleye,Boluwatife Oyeleye,Female,Science,SS2,2009,2022,Grandparent,Civil Servant,Bi-Weekly,08021207517,8
+0783,Fatima,Adetiba,Fatima Adetiba,Female,Commercial,SS1,2010,2021,Sibling,Civil Servant,Weekly,07075378915,7
+0784,Musa,Olunloyo,Musa Olunloyo,Male,Art,SS3,2008,2023,Parent,Teacher,Weekly,09077479721,1
+0785,Zainab,Adejuyigbe,Zainab Adejuyigbe,Female,Commercial,SS1,2009,2022,Sibling,Small Business Owner,Daily,08103883850,6
+0786,Deborah,Onoja,Deborah Onoja,Female,Science,SS1,2009,2022,Grandparent,Technician,Daily,08113768601,8
+0787,Boluwatife,Ayanbadejo,Boluwatife Ayanbadejo,Female,Science,SS1,2010,2021,Parent,Technician,Weekly,07065504926,10
+0788,David,Atanda,David Atanda,Male,Art,SS3,2007,2024,Parent,Civil Servant,Bi-Weekly,07091573876,3
+0789,Tunde,Owoh,Tunde Owoh,Male,Commercial,SS2,2008,2023,Parent,Civil Servant,Daily,08040203923,4
+0790,Charity,Odutola,Charity Odutola,Female,Commercial,SS2,2008,2023,Grandparent,Technician,Daily,07086074894,9
+0791,Joseph,Abdullahi,Joseph Abdullahi,Male,Commercial,SS2,2008,2023,Sibling,Teacher,Bi-Weekly,09029860210,5
+0792,Bukola,Aliyu,Bukola Aliyu,Female,Science,SS3,2007,2024,Aunt/Uncle,Civil Servant,Daily,08106101669,8
+0793,Comfort,Ujah,Comfort Ujah,Female,Commercial,SS2,2008,2023,Parent,Technician,Weekly,07083831355,6
+0794,Isreal,Umelo,Isreal Umelo,Male,Commercial,SS3,2008,2023,Sibling,Teacher,Weekly,08108292172,2
+0795,Ridwan,Tanimowo,Ridwan Tanimowo,Male,Art,SS3,2008,2023,Grandparent,Technician,Weekly,09089867241,5
+0796,Isreal,Akinkugbe,Isreal Akinkugbe,Male,Art,SS1,2010,2021,Aunt/Uncle,Small Business Owner,Bi-Weekly,07069978591,1
+0797,Tobi,Olukoya,Tobi Olukoya,Male,Science,SS3,2007,2024,Grandparent,Civil Servant,Bi-Weekly,09068720113,1
+0798,Musa,Akindele,Musa Akindele,Male,Commercial,SS2,2008,2023,Grandparent,Small Business Owner,Weekly,08190725214,1
+0799,Faith,Adefuye,Faith Adefuye,Female,Science,SS1,2010,2021,Aunt/Uncle,Technician,Daily,07023526584,7
+0800,Tunde,Makinde,Tunde Makinde,Male,Commercial,SS1,2010,2021,Parent,Lawyer,Daily,07066027866,3
+0801,Divine,Odita,Divine Odita,Male,Commercial,SS2,2009,2022,Parent,Teacher,Bi-Weekly,07006008963,4
+0802,Oluchi,Akanbi,Oluchi Akanbi,Female,Science,SS3,2007,2024,Grandparent,Small Business Owner,Weekly,08136203201,6
+0803,Ridwan,Dosunmu,Ridwan Dosunmu,Male,Commercial,SS2,2008,2023,Sibling,Technician,Daily,08067506257,2
+0804,Samson,Eniola,Samson Eniola,Male,Art,SS2,2009,2022,Parent,Small Business Owner,Daily,08000079621,2
+0805,Halima,Ogedegbe,Halima Ogedegbe,Female,Commercial,SS3,2008,2023,Sibling,Technician,Daily,09052516963,9
+0806,Kemi,Adewumi,Kemi Adewumi,Female,Art,SS3,2007,2024,Grandparent,Engineer,Daily,09046929424,8
+0807,Daniel,Aladefa,Daniel Aladefa,Male,Commercial,SS2,2009,2022,Sibling,Small Business Owner,Daily,07008848954,3
+0808,Dara,Agbetu,Dara Agbetu,Female,Science,SS3,2007,2024,Aunt/Uncle,Small Business Owner,Daily,09039257854,7
+0809,Ibrahim,Ajudua,Ibrahim Ajudua,Male,Science,SS2,2009,2022,Grandparent,Small Business Owner,Weekly,08112236813,2
+0810,David,Orban,David Orban,Male,Commercial,SS2,2009,2022,Grandparent,Teacher,Daily,08009786733,3
+0811,Deborah,Ayorinde,Deborah Ayorinde,Female,Art,SS2,2009,2022,Grandparent,Civil Servant,Bi-Weekly,08130325671,7
+0812,Femi,Odutola,Femi Odutola,Male,Science,SS1,2009,2022,Grandparent,Trader,Weekly,08162398321,5
+0813,Musa,Makinde,Musa Makinde,Male,Commercial,SS1,2009,2022,Grandparent,Small Business Owner,Daily,07051298842,2
+0814,Bukola,Ofoedu,Bukola Ofoedu,Female,Art,SS3,2007,2024,Parent,Teacher,Bi-Weekly,07000919204,8
+0815,Musa,Akinde,Musa Akinde,Male,Commercial,SS1,2009,2022,Grandparent,Civil Servant,Daily,09058288025,5
+0816,Clinton,Ogbodo,Clinton Ogbodo,Male,Science,SS1,2009,2022,Parent,Civil Servant,Daily,09066333447,8
+0817,Musa,Ofoedu,Musa Ofoedu,Male,Commercial,SS3,2008,2023,Sibling,Technician,Daily,09003961109,1
+0818,Tunde,Udoka,Tunde Udoka,Male,Art,SS2,2008,2023,Parent,Technician,Bi-Weekly,08199860813,4
+0819,Moses,Onayemi,Moses Onayemi,Male,Commercial,SS3,2008,2023,Parent,Technician,Bi-Weekly,07059355359,5
+0820,Comfort,Ogunlana,Comfort Ogunlana,Female,Art,SS3,2007,2024,Parent,Civil Servant,Bi-Weekly,08103998736,6
+0821,Bukola,Adefope,Bukola Adefope,Female,Commercial,SS2,2008,2023,Sibling,Technician,Weekly,08194195905,7
+0822,Oluchi,Oliha,Oluchi Oliha,Female,Commercial,SS3,2008,2023,Sibling,Small Business Owner,Weekly,09025816446,6
+0823,Daniel,Abagun,Daniel Abagun,Male,Science,SS3,2007,2024,Sibling,Teacher,Daily,08198321815,5
+0824,Aminat,Gwarzo,Aminat Gwarzo,Female,Commercial,SS2,2009,2022,Parent,Civil Servant,Weekly,07038599929,6
+0825,Emmanuel,Aderemi,Emmanuel Aderemi,Male,Commercial,SS1,2009,2022,Parent,Technician,Daily,08178213772,2
+0826,Divine,Odita,Divine Odita,Male,Science,SS2,2008,2023,Parent,Teacher,Daily,08142180806,8
+0827,Toyibat,Umelo,Toyibat Umelo,Female,Art,SS2,2009,2022,Parent,Civil Servant,Daily,08003197266,6
+0828,Boluwatife,Onwumere,Boluwatife Onwumere,Female,Commercial,SS1,2010,2021,Sibling,Technician,Weekly,07047868249,6
+0829,Oluchi,Ogun,Oluchi Ogun,Female,Science,SS3,2008,2023,Sibling,Small Business Owner,Daily,08099501419,10
+0830,Clinton,Odunbaku,Clinton Odunbaku,Male,Science,SS1,2009,2022,Sibling,Small Business Owner,Weekly,09052014949,1
+0831,Zainab,Uwazuruike,Zainab Uwazuruike,Female,Science,SS3,2008,2023,Aunt/Uncle,Teacher,Daily,08169367403,8
+0832,Cleopatra,Ogbongbemiga,Cleopatra Ogbongbemiga,Female,Commercial,SS2,2009,2022,Sibling,Teacher,Bi-Weekly,09049951620,6
+0833,Daniel,Adejuyigbe,Daniel Adejuyigbe,Male,Art,SS2,2009,2022,Sibling,Technician,Daily,07055374684,5
+0834,Adeola,Ibekwe,Adeola Ibekwe,Male,Commercial,SS2,2008,2023,Parent,Technician,Bi-Weekly,08112011771,5
+0835,David,Sofoluwe,David Sofoluwe,Male,Commercial,SS3,2008,2023,Aunt/Uncle,Small Business Owner,Daily,08042236193,2
+0836,Musa,Durosinmi,Musa Durosinmi,Male,Art,SS1,2009,2022,Aunt/Uncle,Technician,Daily,07087479296,5
+0837,Ayodeji,Okongwu,Ayodeji Okongwu,Male,Science,SS1,2010,2021,Parent,Technician,Daily,09059698392,6
+0838,Tobi,Oliha,Tobi Oliha,Male,Art,SS1,2010,2021,Aunt/Uncle,Trader,Bi-Weekly,08017862651,5
+0839,Halima,Adetiba,Halima Adetiba,Female,Art,SS1,2009,2022,Sibling,Small Business Owner,Bi-Weekly,08149313744,9
+0840,Samson,Olunloyo,Samson Olunloyo,Male,Science,SS2,2009,2022,Aunt/Uncle,Technician,Bi-Weekly,08075118698,5
+0841,Divine,Anyiam,Divine Anyiam,Male,Science,SS1,2009,2022,Parent,Engineer,Daily,08152222691,2
+0842,Tunde,Fakeye,Tunde Fakeye,Male,Art,SS2,2009,2022,Grandparent,Civil Servant,Daily,08162689368,1
+0843,Fatima,Udebuluzor,Fatima Udebuluzor,Female,Science,SS2,2009,2022,Grandparent,Small Business Owner,Weekly,08142474376,10
+0844,Oreoluwa,Onoja,Oreoluwa Onoja,Female,Science,SS2,2009,2022,Aunt/Uncle,Technician,Daily,08091377014,8
+0845,Charity,Olujimi,Charity Olujimi,Female,Commercial,SS1,2010,2021,Parent,Civil Servant,Daily,09069405761,8
+0846,Emmanuel,Akraka,Emmanuel Akraka,Male,Art,SS1,2009,2022,Grandparent,Lawyer,Daily,09005284588,1
+0847,Fawaz,Durosinmi,Fawaz Durosinmi,Male,Commercial,SS2,2009,2022,Sibling,Civil Servant,Weekly,08031580652,4
+0848,Divine,Oseni,Divine Oseni,Male,Art,SS3,2007,2024,Parent,Civil Servant,Daily,08012119726,2
+0849,Isreal,Ogbu,Isreal Ogbu,Male,Commercial,SS1,2010,2021,Aunt/Uncle,Civil Servant,Weekly,09026058265,3
+0850,Kemi,Olusola,Kemi Olusola,Female,Art,SS3,2008,2023,Sibling,Technician,Daily,09035774459,10
+0851,Solomon,Gwarzo,Solomon Gwarzo,Male,Science,SS2,2008,2023,Grandparent,Teacher,Weekly,07035644165,4
+0852,Adeola,Abagun,Adeola Abagun,Male,Art,SS3,2007,2024,Sibling,Technician,Bi-Weekly,07026937824,4
+0853,Halima,Udechukwu,Halima Udechukwu,Female,Science,SS2,2009,2022,Aunt/Uncle,Civil Servant,Weekly,08193724054,9
+0854,Divine,Tanimowo,Divine Tanimowo,Male,Science,SS2,2009,2022,Sibling,Civil Servant,Daily,07033488907,1
+0855,Isreal,Atanda,Isreal Atanda,Male,Art,SS2,2009,2022,Parent,Doctor,Daily,07070268778,1
+0856,Kemi,Adetiba,Kemi Adetiba,Female,Art,SS1,2010,2021,Grandparent,Technician,Bi-Weekly,08070564462,1
+0857,Cleopatra,Adewumi,Cleopatra Adewumi,Female,Science,SS2,2008,2023,Grandparent,Civil Servant,Daily,09037950946,10
+0858,Goodness,Madueke,Goodness Madueke,Female,Commercial,SS1,2009,2022,Sibling,Teacher,Weekly,08073467489,9
+0859,Deborah,Babayaro,Deborah Babayaro,Female,Art,SS1,2009,2022,Grandparent,Teacher,Bi-Weekly,08074031374,6
+0860,Zainab,Dosunmu,Zainab Dosunmu,Female,Commercial,SS1,2010,2021,Aunt/Uncle,Civil Servant,Daily,09025955045,6
+0861,Aminat,Ogunkoya,Aminat Ogunkoya,Female,Art,SS1,2010,2021,Aunt/Uncle,Small Business Owner,Weekly,08176964841,10
+0862,Divine,Onyema,Divine Onyema,Male,Art,SS1,2010,2021,Aunt/Uncle,Civil Servant,Daily,09064456997,4
+0863,Ridwan,Shoyinka,Ridwan Shoyinka,Male,Commercial,SS1,2010,2021,Grandparent,Teacher,Daily,08078642084,4
+0864,Cleopatra,Oliha,Cleopatra Oliha,Female,Science,SS1,2009,2022,Sibling,Civil Servant,Weekly,09043107345,8
+0865,Daniel,Buraimoh,Daniel Buraimoh,Male,Commercial,SS3,2007,2024,Sibling,Technician,Bi-Weekly,08136049936,5
+0866,Michael,Omodiagbe,Michael Omodiagbe,Male,Commercial,SS3,2008,2023,Grandparent,Lawyer,Daily,08087364934,1
+0867,Divine,Abadaki,Divine Abadaki,Male,Art,SS1,2009,2022,Grandparent,Lecturer,Daily,08131214541,1
+0868,Babatunde,Makinde,Babatunde Makinde,Male,Art,SS2,2008,2023,Grandparent,Civil Servant,Daily,07028300661,5
+0869,Moses,Onwumere,Moses Onwumere,Male,Commercial,SS3,2008,2023,Aunt/Uncle,Technician,Daily,07022537408,1
+0870,Michael,Ojulari,Michael Ojulari,Male,Science,SS3,2008,2023,Aunt/Uncle,Small Business Owner,Weekly,08149697858,2
+0871,Femi,Maikori,Femi Maikori,Male,Art,SS1,2010,2021,Sibling,Technician,Bi-Weekly,07044019275,3
+0872,Isreal,Imeh,Isreal Imeh,Male,Art,SS1,2010,2021,Aunt/Uncle,Teacher,Weekly,08140822131,1
+0873,Daniel,Ibekwe,Daniel Ibekwe,Male,Art,SS2,2009,2022,Sibling,Small Business Owner,Daily,09025950522,3
+0874,Ayodeji,Ameobi,Ayodeji Ameobi,Male,Science,SS3,2008,2023,Aunt/Uncle,Small Business Owner,Weekly,07097438801,1
+0875,Abdullahi,Omagbemi,Abdullahi Omagbemi,Male,Commercial,SS2,2008,2023,Aunt/Uncle,Technician,Weekly,08029118336,2
+0876,Donald,Ogunoye,Donald Ogunoye,Male,Art,SS1,2009,2022,Sibling,Teacher,Daily,07025243279,10
+0877,Adeola,Idahor,Adeola Idahor,Male,Art,SS3,2008,2023,Grandparent,Technician,Weekly,07012993612,2
+0878,Faith,Udegbe,Faith Udegbe,Female,Science,SS3,2007,2024,Sibling,Teacher,Daily,08024630512,10
+0879,Babatunde,Maikori,Babatunde Maikori,Male,Art,SS3,2007,2024,Sibling,Artisan,Weekly,08097019509,4
+0880,Solomon,Omagbemi,Solomon Omagbemi,Male,Science,SS3,2008,2023,Grandparent,Unemployed,Bi-Weekly,09089558054,3
+0881,Femi,Ogbodo,Femi Ogbodo,Male,Commercial,SS1,2009,2022,Parent,Technician,Weekly,09019429276,5
+0882,Cleopatra,Otedola,Cleopatra Otedola,Female,Science,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Bi-Weekly,08030741028,7
+0883,Kemi,Adegbenro,Kemi Adegbenro,Female,Commercial,SS3,2008,2023,Sibling,Teacher,Daily,07079737861,10
+0884,Divine,Fatai,Divine Fatai,Male,Commercial,SS1,2010,2021,Grandparent,Civil Servant,Weekly,09026128332,1
+0885,Aminat,Akinde,Aminat Akinde,Female,Commercial,SS3,2008,2023,Sibling,Teacher,Weekly,08145059235,6
+0886,Zainab,Imeh,Zainab Imeh,Female,Commercial,SS2,2008,2023,Parent,Civil Servant,Weekly,07048395404,6
+0887,Fawaz,Adewumi,Fawaz Adewumi,Male,Art,SS1,2010,2021,Sibling,Small Business Owner,Daily,08065565494,4
+0888,Kemi,Akinkugbe,Kemi Akinkugbe,Female,Science,SS3,2007,2024,Aunt/Uncle,Small Business Owner,Bi-Weekly,08133942764,10
+0889,Aminat,Agbetu,Aminat Agbetu,Female,Art,SS3,2007,2024,Parent,Civil Servant,Bi-Weekly,08140593371,7
+0890,Zainab,Okoronkwo,Zainab Okoronkwo,Female,Commercial,SS1,2009,2022,Parent,Technician,Bi-Weekly,08027561577,10
+0891,Oreoluwa,Ubosi,Oreoluwa Ubosi,Female,Science,SS1,2009,2022,Sibling,Civil Servant,Weekly,08166003436,8
+0892,Abdullahi,Ogunoye,Abdullahi Ogunoye,Male,Art,SS3,2008,2023,Parent,Civil Servant,Weekly,09055776559,5
+0893,Tunde,Odunbaku,Tunde Odunbaku,Male,Commercial,SS1,2009,2022,Sibling,Small Business Owner,Weekly,09004275166,5
+0894,Moses,Aladefa,Moses Aladefa,Male,Art,SS1,2010,2021,Grandparent,Lecturer,Daily,09013813142,1
+0895,Comfort,Oliha,Comfort Oliha,Female,Art,SS1,2009,2022,Parent,Technician,Daily,08005608776,9
+0896,Emmanuel,Orban,Emmanuel Orban,Male,Commercial,SS2,2009,2022,Aunt/Uncle,Technician,Bi-Weekly,08169975472,5
+0897,Joseph,Umelo,Joseph Umelo,Male,Art,SS3,2007,2024,Aunt/Uncle,Technician,Weekly,07014699098,9
+0898,Abdullahi,Adewusi,Abdullahi Adewusi,Male,Art,SS2,2008,2023,Aunt/Uncle,Technician,Weekly,08158373176,1
+0899,Dara,Osazuwa,Dara Osazuwa,Female,Commercial,SS2,2009,2022,Sibling,Civil Servant,Weekly,07046813312,10
+0900,Kemi,Aladefa,Kemi Aladefa,Female,Science,SS1,2009,2022,Aunt/Uncle,Small Business Owner,Weekly,08111677597,6
+0901,Dara,Adesokan,Dara Adesokan,Female,Art,SS1,2010,2021,Parent,Small Business Owner,Bi-Weekly,09002848850,1
+0902,Goodness,Adeniran,Goodness Adeniran,Female,Art,SS3,2007,2024,Grandparent,Technician,Bi-Weekly,09036155137,6
+0903,Donald,Oliha,Donald Oliha,Male,Commercial,SS2,2008,2023,Grandparent,Civil Servant,Weekly,07038256762,5
+0904,Divine,Enyinnaya,Divine Enyinnaya,Male,Science,SS2,2008,2023,Sibling,Technician,Bi-Weekly,08067165431,5
+0905,Yusuf,Abdullahi,Yusuf Abdullahi,Male,Commercial,SS2,2008,2023,Sibling,Civil Servant,Daily,07058948804,3
+0906,Ibrahim,Fakeye,Ibrahim Fakeye,Male,Commercial,SS3,2008,2023,Aunt/Uncle,Teacher,Daily,09005308356,5
+0907,Oluwaseyi,Ogunlana,Oluwaseyi Ogunlana,Female,Art,SS3,2008,2023,Sibling,Teacher,Bi-Weekly,08079214020,10
+0908,Fawaz,Olaoye,Fawaz Olaoye,Male,Commercial,SS3,2007,2024,Aunt/Uncle,Unemployed,Rarely,09044073941,5
+0909,Tunde,Idiata,Tunde Idiata,Male,Art,SS1,2010,2021,Parent,Teacher,Weekly,07015008384,1
+0910,Divine,Okongwu,Divine Okongwu,Male,Science,SS1,2010,2021,Sibling,Technician,Weekly,08005502692,4
+0911,Oluchi,Aremu,Oluchi Aremu,Female,Science,SS3,2007,2024,Aunt/Uncle,Small Business Owner,Bi-Weekly,09029813756,7
+0912,Cleopatra,Idahosa,Cleopatra Idahosa,Female,Art,SS2,2008,2023,Grandparent,Technician,Bi-Weekly,08128391505,7
+0913,Fawaz,Deniran,Fawaz Deniran,Male,Art,SS1,2009,2022,Parent,Civil Servant,Bi-Weekly,08174511825,4
+0914,Oluwaseyi,Shoyinka,Oluwaseyi Shoyinka,Female,Science,SS2,2008,2023,Parent,Technician,Daily,09096157604,8
+0915,Joseph,Abaribe,Joseph Abaribe,Male,Commercial,SS3,2008,2023,Grandparent,Small Business Owner,Weekly,08077651581,5
+0916,Michael,Idiata,Michael Idiata,Male,Commercial,SS1,2010,2021,Parent,Civil Servant,Bi-Weekly,08127616086,5
+0917,Cyllia,Akraka,Cyllia Akraka,Female,Art,SS2,2009,2022,Parent,Civil Servant,Weekly,08094854247,7
+0918,Fawaz,Aliyu,Fawaz Aliyu,Male,Science,SS1,2009,2022,Parent,Small Business Owner,Bi-Weekly,08177483865,4
+0919,Divine,Ameobi,Divine Ameobi,Male,Art,SS3,2008,2023,Grandparent,Small Business Owner,Bi-Weekly,07096517005,5
+0920,Bukola,Ogunoye,Bukola Ogunoye,Female,Science,SS3,2007,2024,Aunt/Uncle,Teacher,Weekly,08062072761,6
+0921,David,Adesokan,David Adesokan,Male,Art,SS3,2008,2023,Sibling,Teacher,Daily,09005997630,5
+0922,Ayodeji,Olunloyo,Ayodeji Olunloyo,Male,Commercial,SS3,2007,2024,Sibling,Teacher,Weekly,09090961179,5
+0923,Fatima,Ogunsola,Fatima Ogunsola,Female,Commercial,SS2,2008,2023,Grandparent,Technician,Weekly,08075278411,7
+0924,Fatima,Onyeka,Fatima Onyeka,Female,Commercial,SS2,2008,2023,Aunt/Uncle,Civil Servant,Bi-Weekly,09003948041,7
+0925,Clinton,Kolade,Clinton Kolade,Male,Commercial,SS2,2009,2022,Sibling,Teacher,Daily,08170290704,5
+0926,Fatima,Babayaro,Fatima Babayaro,Female,Art,SS2,2009,2022,Parent,Civil Servant,Weekly,08043249272,6
+0927,Dara,Owoh,Dara Owoh,Female,Art,SS2,2008,2023,Aunt/Uncle,Technician,Daily,08071872480,9
+0928,Aminat,Adewumi,Aminat Adewumi,Female,Art,SS3,2007,2024,Sibling,Teacher,Daily,08185732096,8
+0929,Oluchi,Onyegbule,Oluchi Onyegbule,Female,Science,SS1,2010,2021,Grandparent,Civil Servant,Weekly,08112522549,10
+0930,Zainab,Uloko,Zainab Uloko,Female,Commercial,SS3,2008,2023,Aunt/Uncle,Small Business Owner,Bi-Weekly,09057225759,6
+0931,Dara,Folayan,Dara Folayan,Female,Art,SS1,2009,2022,Sibling,Civil Servant,Weekly,09052588922,8
+0932,Faith,Olatunji,Faith Olatunji,Female,Science,SS2,2008,2023,Aunt/Uncle,Civil Servant,Weekly,07075341525,7
+0933,Isreal,Onyeka,Isreal Onyeka,Male,Science,SS3,2007,2024,Grandparent,Artisan,Weekly,08044876293,3
+0934,Emmanuel,Ogbonnaya,Emmanuel Ogbonnaya,Male,Commercial,SS1,2009,2022,Sibling,Technician,Daily,08136297024,2
+0935,Solomon,Ayanbadejo,Solomon Ayanbadejo,Male,Commercial,SS2,2008,2023,Grandparent,Small Business Owner,Weekly,08174664783,1
+0936,Samson,Adedeji,Samson Adedeji,Male,Art,SS3,2007,2024,Sibling,Civil Servant,Daily,08135489833,2
+0937,Donald,Osazuwa,Donald Osazuwa,Male,Commercial,SS3,2007,2024,Aunt/Uncle,Civil Servant,Bi-Weekly,08110458455,4
+0938,Daniel,Adesokan,Daniel Adesokan,Male,Science,SS1,2009,2022,Grandparent,Technician,Bi-Weekly,08047749150,4
+0939,Oluchi,Rasaki,Oluchi Rasaki,Female,Art,SS1,2009,2022,Sibling,Technician,Bi-Weekly,09008937470,10
+0940,Fawaz,Ogunoye,Fawaz Ogunoye,Male,Art,SS3,2007,2024,Parent,Civil Servant,Bi-Weekly,08151412505,2
+0941,Goodness,Idahor,Goodness Idahor,Female,Art,SS2,2008,2023,Parent,Teacher,Weekly,09008444515,9
+0942,Bukola,Osazuwa,Bukola Osazuwa,Female,Science,SS1,2010,2021,Grandparent,Farmer,Weekly,08087293084,8
+0943,Femi,Anyiam,Femi Anyiam,Male,Art,SS3,2007,2024,Grandparent,Teacher,Bi-Weekly,09060949857,2
+0944,Kemi,Aderemi,Kemi Aderemi,Female,Science,SS3,2008,2023,Aunt/Uncle,Small Business Owner,Daily,07085477211,7
+0945,Ridwan,Aliyu,Ridwan Aliyu,Male,Commercial,SS3,2007,2024,Sibling,Technician,Daily,08177921302,1
+0946,Ibrahim,Adegbenro,Ibrahim Adegbenro,Male,Commercial,SS3,2007,2024,Parent,Teacher,Daily,07036729164,5
+0947,Faith,Abagun,Faith Abagun,Female,Art,SS3,2008,2023,Sibling,Small Business Owner,Daily,08075685037,8
+0948,Bukola,Onyema,Bukola Onyema,Female,Commercial,SS2,2009,2022,Aunt/Uncle,Civil Servant,Daily,07020905043,9
+0949,Femi,Ojulari,Femi Ojulari,Male,Commercial,SS1,2009,2022,Parent,Technician,Daily,08030096215,5
+0950,Daniel,Olukoya,Daniel Olukoya,Male,Commercial,SS3,2007,2024,Grandparent,Technician,Daily,07008449314,3
+0951,Oluchi,Akpabio,Oluchi Akpabio,Female,Commercial,SS1,2010,2021,Parent,Small Business Owner,Bi-Weekly,07050543555,9
+0952,Cyllia,Alagbe,Cyllia Alagbe,Female,Science,SS1,2010,2021,Parent,Civil Servant,Daily,09089143837,8
+0953,Aminat,Akpabio,Aminat Akpabio,Female,Art,SS1,2009,2022,Grandparent,Civil Servant,Weekly,08184001994,9
+0954,David,Agbetu,David Agbetu,Male,Commercial,SS2,2008,2023,Parent,Teacher,Weekly,08082346547,1
+0955,Toyibat,Idahor,Toyibat Idahor,Female,Science,SS3,2007,2024,Sibling,Teacher,Weekly,08146208192,7
+0956,Zainab,Akpabio,Zainab Akpabio,Female,Science,SS1,2010,2021,Grandparent,Technician,Weekly,09025606347,9
+0957,Goodness,Ayorinde,Goodness Ayorinde,Female,Commercial,SS3,2008,2023,Parent,Small Business Owner,Bi-Weekly,08054065165,10
+0958,Fatima,Adejuyigbe,Fatima Adejuyigbe,Female,Commercial,SS3,2007,2024,Sibling,Civil Servant,Bi-Weekly,08104561052,8
+0959,Charity,Ameobi,Charity Ameobi,Female,Art,SS1,2009,2022,Grandparent,Small Business Owner,Bi-Weekly,07010039105,7
+0960,Oluwaseyi,Ukeje,Oluwaseyi Ukeje,Female,Science,SS1,2009,2022,Aunt/Uncle,Teacher,Bi-Weekly,07065491488,7
+0961,Goodness,Tanimowo,Goodness Tanimowo,Female,Art,SS2,2008,2023,Parent,Technician,Bi-Weekly,08020288622,9
+0962,Charity,Osazuwa,Charity Osazuwa,Female,Art,SS2,2008,2023,Parent,Lecturer,Daily,09046659972,8
+0963,Aminat,Udoka,Aminat Udoka,Female,Commercial,SS3,2007,2024,Aunt/Uncle,Technician,Weekly,08114093941,9
+0964,Bukola,Anjorin,Bukola Anjorin,Female,Art,SS1,2010,2021,Aunt/Uncle,Civil Servant,Daily,09049099370,7
+0965,Cyllia,Ogbonnaya,Cyllia Ogbonnaya,Female,Art,SS1,2010,2021,Aunt/Uncle,Teacher,Weekly,07010559109,10
+0966,Fawaz,Akinkugbe,Fawaz Akinkugbe,Male,Science,SS2,2009,2022,Sibling,Civil Servant,Weekly,08041957535,5
+0967,Michael,Ogunode,Michael Ogunode,Male,Art,SS2,2008,2023,Grandparent,Teacher,Bi-Weekly,09051056949,5
+0968,Deborah,Ofoedu,Deborah Ofoedu,Female,Art,SS1,2009,2022,Aunt/Uncle,Technician,Weekly,07075168413,7
+0969,Zainab,Odita,Zainab Odita,Female,Science,SS3,2007,2024,Grandparent,Technician,Daily,09007460104,7
+0970,Fawaz,Olaoye,Fawaz Olaoye,Male,Science,SS1,2009,2022,Aunt/Uncle,Technician,Weekly,07042842225,4
+0971,Tobi,Okoduwa,Tobi Okoduwa,Male,Commercial,SS1,2009,2022,Aunt/Uncle,Civil Servant,Daily,07041169242,2
+0972,Divine,Adedeji,Divine Adedeji,Male,Commercial,SS3,2007,2024,Parent,Small Business Owner,Bi-Weekly,08127707916,5
+0973,Fawaz,Osakwe,Fawaz Osakwe,Male,Art,SS3,2007,2024,Sibling,Technician,Weekly,07006446079,2
+0974,Aminat,Ogbodo,Aminat Ogbodo,Female,Science,SS3,2007,2024,Sibling,Teacher,Daily,08069215489,8
+0975,Yusuf,Tanimowo,Yusuf Tanimowo,Male,Commercial,SS1,2009,2022,Parent,Small Business Owner,Bi-Weekly,08109052252,2
+0976,Femi,Anjorin,Femi Anjorin,Male,Art,SS2,2009,2022,Sibling,Civil Servant,Weekly,09071631603,4
+0977,Comfort,Fuwape,Comfort Fuwape,Female,Commercial,SS1,2010,2021,Sibling,Civil Servant,Weekly,08191209702,10
+0978,Ibrahim,Ogbu,Ibrahim Ogbu,Male,Commercial,SS3,2007,2024,Parent,Small Business Owner,Bi-Weekly,08149227332,1
+0979,Isreal,Onyegbule,Isreal Onyegbule,Male,Commercial,SS3,2008,2023,Aunt/Uncle,Technician,Weekly,09037509715,2
+0980,Halima,Idiata,Halima Idiata,Female,Commercial,SS1,2009,2022,Sibling,Teacher,Daily,08054236389,10
+0981,Michael,Olaoye,Michael Olaoye,Male,Art,SS2,2009,2022,Sibling,Technician,Daily,08177895324,2
+0982,Oluwaseyi,Bamigboye,Oluwaseyi Bamigboye,Female,Commercial,SS3,2008,2023,Parent,Technician,Bi-Weekly,08082753849,10
+0983,Faith,Ameobi,Faith Ameobi,Female,Science,SS1,2010,2021,Grandparent,Civil Servant,Weekly,09041312923,8
+0984,Daniel,Gwarzo,Daniel Gwarzo,Male,Art,SS2,2008,2023,Grandparent,Doctor,Daily,08008848686,2
+0985,Kemi,Idiata,Kemi Idiata,Female,Art,SS3,2008,2023,Parent,Doctor,Daily,09065436271,7
+0986,Ridwan,Odunbaku,Ridwan Odunbaku,Male,Science,SS1,2010,2021,Aunt/Uncle,Teacher,Daily,07072617643,4
+0987,Joseph,Odutola,Joseph Odutola,Male,Commercial,SS1,2009,2022,Parent,Civil Servant,Weekly,09081383470,6
+0988,Goodness,Maikori,Goodness Maikori,Female,Art,SS1,2009,2022,Grandparent,Small Business Owner,Weekly,08183508423,6
+0989,Abdullahi,Daramola,Abdullahi Daramola,Male,Commercial,SS2,2008,2023,Sibling,Small Business Owner,Bi-Weekly,09018389266,4
+0990,Babatunde,Yesufu,Babatunde Yesufu,Male,Commercial,SS2,2009,2022,Aunt/Uncle,Teacher,Daily,08037179466,3
+0991,Oluchi,Onyema,Oluchi Onyema,Female,Science,SS2,2008,2023,Sibling,Civil Servant,Daily,08139452321,6
+0992,Toyibat,Imeh,Toyibat Imeh,Female,Art,SS1,2009,2022,Grandparent,Teacher,Weekly,08176049543,1
+0993,Abdullahi,Adedibu,Abdullahi Adedibu,Male,Commercial,SS3,2008,2023,Sibling,Teacher,Daily,08129394040,3
+0994,David,Ogbodo,David Ogbodo,Male,Commercial,SS1,2009,2022,Grandparent,Civil Servant,Weekly,09068594654,5
+0995,Moses,Yesufu,Moses Yesufu,Male,Science,SS3,2007,2024,Aunt/Uncle,Civil Servant,Daily,08048085396,10
+0996,Femi,Ogunlana,Femi Ogunlana,Male,Science,SS3,2008,2023,Parent,Technician,Daily,08079182551,1
+0997,Toyibat,Idonije,Toyibat Idonije,Female,Science,SS2,2009,2022,Aunt/Uncle,Technician,Weekly,08071071554,8
+0998,Deborah,Omagbemi,Deborah Omagbemi,Female,Art,SS1,2009,2022,Grandparent,Technician,Weekly,07036671139,7
+0999,Yusuf,Ameobi,Yusuf Ameobi,Male,Science,SS1,2010,2021,Grandparent,Teacher,Weekly,08038249852,4
+1000,Clinton,Onoja,Clinton Onoja,Male,Art,SS2,2008,2023,Sibling,Civil Servant,Bi-Weekly,09076057289,4
